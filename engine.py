@@ -1,8 +1,8 @@
 import torch.optim as optim
 from model import *
 from model_time_shift import A2GCN
-from stgnn import STGNN
-from StemGNN import Model
+# from stgnn import STGNN
+# from StemGNN import Model
 import util
 
 model_dict = {'graph_wavenet':gwnet,
@@ -27,19 +27,19 @@ class trainer():
                         {'params':other, 'lr':kwargs['learning_rate'], 'weight_decay':kwargs['weight_decay']},
                         {'params':self.model.latent_graph.parameters(),'lr':kwargs['latent_graph_lr']},
                                                 ])
-        elif kwargs['model'] == 'stgnn':
-            self.model = STGNN(num_nodes, in_T = seq_length, in_dim = in_dim,out_T=12,out_dim=1,
-                           multi_embeddings=[[289,30],[7,2]],predefined_G=supports, \
-                     channel =nhid, sparse = int(num_nodes*sparse),gnn_layers=layers,dropout=dropout,device=device,)
-            self.model.to(device)
+#         elif kwargs['model'] == 'stgnn':
+#             self.model = STGNN(num_nodes, in_T = seq_length, in_dim = in_dim,out_T=12,out_dim=1,
+#                            multi_embeddings=[[289,30],[7,2]],predefined_G=supports, \
+#                      channel =nhid, sparse = int(num_nodes*sparse),gnn_layers=layers,dropout=dropout,device=device,)
+#             self.model.to(device)
             
-            self.optimizer = optim.Adam(params=self.model.parameters(), lr=1e-3)
-        elif kwargs['model'] == 'stemgnn':
-            self.model = Model(units=num_nodes, stack_cnt=2, time_step=seq_length, multi_layer=5, horizon=12, dropout_rate=0.3, leaky_rate=0.2,device=device)
-            self.model.to(device)
+#             self.optimizer = optim.Adam(params=self.model.parameters(), lr=1e-3)
+#         elif kwargs['model'] == 'stemgnn':
+#             self.model = Model(units=num_nodes, stack_cnt=2, time_step=seq_length, multi_layer=5, horizon=12, dropout_rate=0.3, leaky_rate=0.2,device=device)
+#             self.model.to(device)
             
-            self.optimizer = optim.RMSprop(params=self.model.parameters(), lr=1e-4)
-            self.loss = util.masked_rmse
+#             self.optimizer = optim.RMSprop(params=self.model.parameters(), lr=1e-4)
+#             self.loss = util.masked_rmse
             
         
         self.scaler = scaler
