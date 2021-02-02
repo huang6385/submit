@@ -1,5 +1,9 @@
 # submit
 
+# For convenience, train ,val and test score logging can be found in 'logging-METR-LA.txt' and 'logging-SOLAR-horizon12.txt'
+
+
+
 ## Data Preparation
 
 

@@ -1,0 +1,618 @@
+2021-02-02 01:18:36,335 : Iter: 000, Train Loss: 10.9269, Train MAPE: 0.2754, Train RMSE: 13.3144
+2021-02-02 01:18:41,835 : Iter: 100, Train Loss: 4.2422, Train MAPE: 0.1344, Train RMSE: 8.4834
+2021-02-02 01:18:47,299 : Iter: 200, Train Loss: 3.7532, Train MAPE: 0.1086, Train RMSE: 7.2140
+2021-02-02 01:18:52,790 : Iter: 300, Train Loss: 3.8704, Train MAPE: 0.1117, Train RMSE: 7.5527
+2021-02-02 01:18:57,511 : Epoch: 001, Train Loss: 4.1571, Train MAPE: 0.1219, Train RMSE: 7.8861, Valid Loss: 3.3034, Valid MAPE: 0.0972, Valid RMSE: 6.1347, Training Time: 21.6850/epoch
+2021-02-02 01:19:44,480 : Iter: 000, Train Loss: 10.8085, Train MAPE: 0.2743, Train RMSE: 13.1527
+2021-02-02 01:19:50,001 : Iter: 100, Train Loss: 4.1377, Train MAPE: 0.1246, Train RMSE: 8.0913
+2021-02-02 01:19:55,514 : Iter: 200, Train Loss: 3.5961, Train MAPE: 0.0986, Train RMSE: 6.9923
+2021-02-02 01:20:01,022 : Iter: 300, Train Loss: 3.6908, Train MAPE: 0.1121, Train RMSE: 7.1729
+2021-02-02 01:20:05,795 : Epoch: 001, Train Loss: 4.1321, Train MAPE: 0.1207, Train RMSE: 7.8097, Valid Loss: 3.3149, Valid MAPE: 0.1021, Valid RMSE: 6.1348, Training Time: 21.8384/epoch
+2021-02-02 01:20:07,078 : On average over 12 horizons, Test MAE: 3.6610, Test MAPE: 0.1115, Test RMSE: 7.0641
+2021-02-02 01:20:08,271 : Iter: 000, Train Loss: 3.6658, Train MAPE: 0.1060, Train RMSE: 7.0920
+2021-02-02 01:20:13,789 : Iter: 100, Train Loss: 3.7035, Train MAPE: 0.1181, Train RMSE: 7.6051
+2021-02-02 01:20:19,284 : Iter: 200, Train Loss: 3.3647, Train MAPE: 0.0995, Train RMSE: 6.6931
+2021-02-02 01:20:24,813 : Iter: 300, Train Loss: 3.0729, Train MAPE: 0.0793, Train RMSE: 6.0702
+2021-02-02 01:20:29,590 : Epoch: 002, Train Loss: 3.3709, Train MAPE: 0.0956, Train RMSE: 6.6496, Valid Loss: 3.1481, Valid MAPE: 0.0921, Valid RMSE: 5.7451, Training Time: 21.8144/epoch
+2021-02-02 01:20:30,870 : On average over 12 horizons, Test MAE: 3.4716, Test MAPE: 0.1000, Test RMSE: 6.5664
+2021-02-02 01:20:32,062 : Iter: 000, Train Loss: 3.5148, Train MAPE: 0.1053, Train RMSE: 6.7893
+2021-02-02 01:20:37,579 : Iter: 100, Train Loss: 3.0588, Train MAPE: 0.0842, Train RMSE: 6.0513
+2021-02-02 01:20:43,075 : Iter: 200, Train Loss: 3.4250, Train MAPE: 0.0965, Train RMSE: 6.8380
+2021-02-02 01:20:48,581 : Iter: 300, Train Loss: 3.3089, Train MAPE: 0.0981, Train RMSE: 6.6004
+2021-02-02 01:20:53,352 : Epoch: 003, Train Loss: 3.2190, Train MAPE: 0.0901, Train RMSE: 6.3108, Valid Loss: 2.9841, Valid MAPE: 0.0852, Valid RMSE: 5.6386, Training Time: 21.7940/epoch
+2021-02-02 01:20:54,632 : On average over 12 horizons, Test MAE: 3.2945, Test MAPE: 0.0921, Test RMSE: 6.4000
+2021-02-02 01:20:55,821 : Iter: 000, Train Loss: 3.2224, Train MAPE: 0.0868, Train RMSE: 6.3508
+2021-02-02 01:21:01,352 : Iter: 100, Train Loss: 3.0502, Train MAPE: 0.0839, Train RMSE: 6.0865
+2021-02-02 01:21:06,862 : Iter: 200, Train Loss: 3.0027, Train MAPE: 0.0792, Train RMSE: 5.8785
+2021-02-02 01:21:12,396 : Iter: 300, Train Loss: 2.9603, Train MAPE: 0.0832, Train RMSE: 6.0045
+2021-02-02 01:21:17,218 : Epoch: 004, Train Loss: 3.1399, Train MAPE: 0.0870, Train RMSE: 6.1666, Valid Loss: 2.9289, Valid MAPE: 0.0818, Valid RMSE: 5.5054, Training Time: 21.8825/epoch
+2021-02-02 01:21:18,494 : On average over 12 horizons, Test MAE: 3.2390, Test MAPE: 0.0885, Test RMSE: 6.2397
+2021-02-02 01:21:19,687 : Iter: 000, Train Loss: 2.9833, Train MAPE: 0.0790, Train RMSE: 5.7362
+2021-02-02 01:21:25,196 : Iter: 100, Train Loss: 2.8676, Train MAPE: 0.0724, Train RMSE: 5.5685
+2021-02-02 01:21:30,704 : Iter: 200, Train Loss: 2.7956, Train MAPE: 0.0719, Train RMSE: 5.5544
+2021-02-02 01:21:36,236 : Iter: 300, Train Loss: 3.1704, Train MAPE: 0.0851, Train RMSE: 6.1554
+2021-02-02 01:21:41,013 : Epoch: 005, Train Loss: 3.0856, Train MAPE: 0.0851, Train RMSE: 6.0658, Valid Loss: 2.9063, Valid MAPE: 0.0815, Valid RMSE: 5.4478, Training Time: 21.8311/epoch
+2021-02-02 01:21:42,301 : On average over 12 horizons, Test MAE: 3.1939, Test MAPE: 0.0878, Test RMSE: 6.1767
+2021-02-02 01:21:43,494 : Iter: 000, Train Loss: 3.0059, Train MAPE: 0.0798, Train RMSE: 5.9607
+2021-02-02 01:21:49,020 : Iter: 100, Train Loss: 3.0626, Train MAPE: 0.0828, Train RMSE: 6.1479
+2021-02-02 01:21:54,537 : Iter: 200, Train Loss: 2.8041, Train MAPE: 0.0779, Train RMSE: 5.6093
+2021-02-02 01:22:00,053 : Iter: 300, Train Loss: 2.8067, Train MAPE: 0.0674, Train RMSE: 5.2674
+2021-02-02 01:22:04,860 : Epoch: 006, Train Loss: 3.0425, Train MAPE: 0.0835, Train RMSE: 5.9903, Valid Loss: 2.8765, Valid MAPE: 0.0799, Valid RMSE: 5.3818, Training Time: 21.8507/epoch
+2021-02-02 01:22:06,156 : On average over 12 horizons, Test MAE: 3.1536, Test MAPE: 0.0859, Test RMSE: 6.0752
+2021-02-02 01:22:07,355 : Iter: 000, Train Loss: 2.8395, Train MAPE: 0.0717, Train RMSE: 5.4635
+2021-02-02 01:22:12,881 : Iter: 100, Train Loss: 2.9056, Train MAPE: 0.0788, Train RMSE: 5.5494
+2021-02-02 01:22:18,409 : Iter: 200, Train Loss: 2.9414, Train MAPE: 0.0802, Train RMSE: 5.8111
+2021-02-02 01:22:23,919 : Iter: 300, Train Loss: 2.9393, Train MAPE: 0.0791, Train RMSE: 5.7302
+2021-02-02 01:22:28,728 : Epoch: 007, Train Loss: 3.0152, Train MAPE: 0.0825, Train RMSE: 5.9359, Valid Loss: 2.8334, Valid MAPE: 0.0801, Valid RMSE: 5.3657, Training Time: 21.8790/epoch
+2021-02-02 01:22:30,001 : On average over 12 horizons, Test MAE: 3.1050, Test MAPE: 0.0861, Test RMSE: 6.0576
+2021-02-02 01:22:31,176 : Iter: 000, Train Loss: 3.2836, Train MAPE: 0.0952, Train RMSE: 6.3904
+2021-02-02 01:22:36,700 : Iter: 100, Train Loss: 2.9480, Train MAPE: 0.0763, Train RMSE: 5.7587
+2021-02-02 01:22:42,200 : Iter: 200, Train Loss: 3.1246, Train MAPE: 0.0906, Train RMSE: 6.2705
+2021-02-02 01:22:47,720 : Iter: 300, Train Loss: 3.0485, Train MAPE: 0.0854, Train RMSE: 5.9812
+2021-02-02 01:22:52,464 : Epoch: 008, Train Loss: 2.9880, Train MAPE: 0.0815, Train RMSE: 5.8922, Valid Loss: 2.8423, Valid MAPE: 0.0796, Valid RMSE: 5.3897, Training Time: 21.7711/epoch
+2021-02-02 01:22:53,745 : On average over 12 horizons, Test MAE: 3.0949, Test MAPE: 0.0855, Test RMSE: 6.0444
+2021-02-02 01:22:54,937 : Iter: 000, Train Loss: 2.7104, Train MAPE: 0.0751, Train RMSE: 5.4812
+2021-02-02 01:23:00,454 : Iter: 100, Train Loss: 3.2084, Train MAPE: 0.0961, Train RMSE: 6.3360
+2021-02-02 01:23:05,968 : Iter: 200, Train Loss: 3.0632, Train MAPE: 0.0923, Train RMSE: 6.2281
+2021-02-02 01:23:11,492 : Iter: 300, Train Loss: 2.9955, Train MAPE: 0.0758, Train RMSE: 5.6824
+2021-02-02 01:23:16,267 : Epoch: 009, Train Loss: 2.9671, Train MAPE: 0.0808, Train RMSE: 5.8577, Valid Loss: 2.8434, Valid MAPE: 0.0796, Valid RMSE: 5.3276, Training Time: 21.8367/epoch
+2021-02-02 01:23:17,540 : On average over 12 horizons, Test MAE: 3.0967, Test MAPE: 0.0859, Test RMSE: 6.0019
+2021-02-02 01:23:18,729 : Iter: 000, Train Loss: 3.0560, Train MAPE: 0.0877, Train RMSE: 6.0806
+2021-02-02 01:23:24,244 : Iter: 100, Train Loss: 2.8741, Train MAPE: 0.0779, Train RMSE: 5.7713
+2021-02-02 01:23:29,756 : Iter: 200, Train Loss: 3.2918, Train MAPE: 0.0925, Train RMSE: 6.4805
+2021-02-02 01:23:35,301 : Iter: 300, Train Loss: 3.0416, Train MAPE: 0.0864, Train RMSE: 6.0885
+2021-02-02 01:23:40,072 : Epoch: 010, Train Loss: 2.9488, Train MAPE: 0.0801, Train RMSE: 5.8268, Valid Loss: 2.8542, Valid MAPE: 0.0796, Valid RMSE: 5.3608, Training Time: 21.8365/epoch
+2021-02-02 01:23:41,361 : On average over 12 horizons, Test MAE: 3.0870, Test MAPE: 0.0852, Test RMSE: 5.9950
+2021-02-02 01:23:42,549 : Iter: 000, Train Loss: 3.1087, Train MAPE: 0.0881, Train RMSE: 6.2423
+2021-02-02 01:23:48,063 : Iter: 100, Train Loss: 2.9291, Train MAPE: 0.0774, Train RMSE: 5.6637
+2021-02-02 01:23:53,580 : Iter: 200, Train Loss: 2.7443, Train MAPE: 0.0712, Train RMSE: 5.4136
+2021-02-02 01:23:59,078 : Iter: 300, Train Loss: 2.7559, Train MAPE: 0.0706, Train RMSE: 5.5343
+2021-02-02 01:24:03,884 : Epoch: 011, Train Loss: 2.9373, Train MAPE: 0.0798, Train RMSE: 5.8079, Valid Loss: 2.8366, Valid MAPE: 0.0766, Valid RMSE: 5.4495, Training Time: 21.8247/epoch
+2021-02-02 01:24:05,190 : On average over 12 horizons, Test MAE: 3.1062, Test MAPE: 0.0830, Test RMSE: 6.1357
+2021-02-02 01:24:06,384 : Iter: 000, Train Loss: 2.9001, Train MAPE: 0.0687, Train RMSE: 5.7770
+2021-02-02 01:24:11,884 : Iter: 100, Train Loss: 2.7329, Train MAPE: 0.0705, Train RMSE: 5.3215
+2021-02-02 01:24:17,447 : Iter: 200, Train Loss: 2.8591, Train MAPE: 0.0788, Train RMSE: 5.7553
+2021-02-02 01:24:22,934 : Iter: 300, Train Loss: 2.9671, Train MAPE: 0.0824, Train RMSE: 5.8657
+2021-02-02 01:24:27,701 : Epoch: 012, Train Loss: 2.9210, Train MAPE: 0.0792, Train RMSE: 5.7831, Valid Loss: 2.8104, Valid MAPE: 0.0793, Valid RMSE: 5.3105, Training Time: 21.8233/epoch
+2021-02-02 01:24:28,976 : On average over 12 horizons, Test MAE: 3.0647, Test MAPE: 0.0855, Test RMSE: 5.9880
+2021-02-02 01:24:30,166 : Iter: 000, Train Loss: 2.9855, Train MAPE: 0.0847, Train RMSE: 5.8839
+2021-02-02 01:24:35,683 : Iter: 100, Train Loss: 2.9837, Train MAPE: 0.0812, Train RMSE: 5.9846
+2021-02-02 01:24:41,205 : Iter: 200, Train Loss: 2.8557, Train MAPE: 0.0726, Train RMSE: 5.4319
+2021-02-02 01:24:46,737 : Iter: 300, Train Loss: 3.0056, Train MAPE: 0.0867, Train RMSE: 6.0215
+2021-02-02 01:24:51,501 : Epoch: 013, Train Loss: 2.9098, Train MAPE: 0.0788, Train RMSE: 5.7625, Valid Loss: 2.7965, Valid MAPE: 0.0766, Valid RMSE: 5.3418, Training Time: 21.8353/epoch
+2021-02-02 01:24:52,781 : On average over 12 horizons, Test MAE: 3.0484, Test MAPE: 0.0827, Test RMSE: 5.9967
+2021-02-02 01:24:53,980 : Iter: 000, Train Loss: 3.0126, Train MAPE: 0.0798, Train RMSE: 5.9492
+2021-02-02 01:24:59,518 : Iter: 100, Train Loss: 2.9037, Train MAPE: 0.0821, Train RMSE: 5.8338
+2021-02-02 01:25:05,043 : Iter: 200, Train Loss: 2.8298, Train MAPE: 0.0722, Train RMSE: 5.7039
+2021-02-02 01:25:10,536 : Iter: 300, Train Loss: 2.9333, Train MAPE: 0.0806, Train RMSE: 5.9805
+2021-02-02 01:25:15,350 : Epoch: 014, Train Loss: 2.8997, Train MAPE: 0.0785, Train RMSE: 5.7490, Valid Loss: 2.7859, Valid MAPE: 0.0769, Valid RMSE: 5.3185, Training Time: 21.8423/epoch
+2021-02-02 01:25:16,625 : On average over 12 horizons, Test MAE: 3.0345, Test MAPE: 0.0833, Test RMSE: 5.9966
+2021-02-02 01:25:17,813 : Iter: 000, Train Loss: 2.7632, Train MAPE: 0.0678, Train RMSE: 5.5201
+2021-02-02 01:25:23,327 : Iter: 100, Train Loss: 2.9056, Train MAPE: 0.0846, Train RMSE: 5.9019
+2021-02-02 01:25:28,877 : Iter: 200, Train Loss: 2.8139, Train MAPE: 0.0739, Train RMSE: 5.5187
+2021-02-02 01:25:34,397 : Iter: 300, Train Loss: 2.8626, Train MAPE: 0.0722, Train RMSE: 5.5001
+2021-02-02 01:25:39,164 : Epoch: 015, Train Loss: 2.8898, Train MAPE: 0.0781, Train RMSE: 5.7323, Valid Loss: 2.7709, Valid MAPE: 0.0782, Valid RMSE: 5.2942, Training Time: 21.8436/epoch
+2021-02-02 01:25:40,440 : On average over 12 horizons, Test MAE: 3.0204, Test MAPE: 0.0848, Test RMSE: 5.9698
+2021-02-02 01:25:41,631 : Iter: 000, Train Loss: 2.9658, Train MAPE: 0.0834, Train RMSE: 5.8301
+2021-02-02 01:25:47,153 : Iter: 100, Train Loss: 2.8012, Train MAPE: 0.0743, Train RMSE: 5.5689
+2021-02-02 01:25:52,682 : Iter: 200, Train Loss: 2.7903, Train MAPE: 0.0782, Train RMSE: 5.5516
+2021-02-02 01:25:58,208 : Iter: 300, Train Loss: 2.9914, Train MAPE: 0.0830, Train RMSE: 6.0666
+2021-02-02 01:26:03,003 : Epoch: 016, Train Loss: 2.8820, Train MAPE: 0.0778, Train RMSE: 5.7176, Valid Loss: 2.7678, Valid MAPE: 0.0753, Valid RMSE: 5.2983, Training Time: 21.8582/epoch
+2021-02-02 01:26:04,283 : On average over 12 horizons, Test MAE: 3.0044, Test MAPE: 0.0813, Test RMSE: 5.9328
+2021-02-02 01:26:05,471 : Iter: 000, Train Loss: 2.7802, Train MAPE: 0.0715, Train RMSE: 5.5198
+2021-02-02 01:26:10,992 : Iter: 100, Train Loss: 2.6547, Train MAPE: 0.0672, Train RMSE: 5.1373
+2021-02-02 01:26:16,488 : Iter: 200, Train Loss: 3.0001, Train MAPE: 0.0865, Train RMSE: 5.9827
+2021-02-02 01:26:21,994 : Iter: 300, Train Loss: 3.0098, Train MAPE: 0.0835, Train RMSE: 6.0395
+2021-02-02 01:26:26,774 : Epoch: 017, Train Loss: 2.8729, Train MAPE: 0.0775, Train RMSE: 5.7004, Valid Loss: 2.7642, Valid MAPE: 0.0751, Valid RMSE: 5.2919, Training Time: 21.7689/epoch
+2021-02-02 01:26:28,059 : On average over 12 horizons, Test MAE: 3.0045, Test MAPE: 0.0812, Test RMSE: 5.9385
+2021-02-02 01:26:29,244 : Iter: 000, Train Loss: 2.8561, Train MAPE: 0.0776, Train RMSE: 5.7850
+2021-02-02 01:26:34,760 : Iter: 100, Train Loss: 2.7241, Train MAPE: 0.0668, Train RMSE: 5.4122
+2021-02-02 01:26:40,271 : Iter: 200, Train Loss: 2.9629, Train MAPE: 0.0802, Train RMSE: 5.8975
+2021-02-02 01:26:45,787 : Iter: 300, Train Loss: 2.7848, Train MAPE: 0.0705, Train RMSE: 5.2924
+2021-02-02 01:26:50,572 : Epoch: 018, Train Loss: 2.8683, Train MAPE: 0.0773, Train RMSE: 5.6893, Valid Loss: 2.7573, Valid MAPE: 0.0765, Valid RMSE: 5.2786, Training Time: 21.8239/epoch
+2021-02-02 01:26:51,851 : On average over 12 horizons, Test MAE: 3.0034, Test MAPE: 0.0831, Test RMSE: 5.9537
+2021-02-02 01:26:53,024 : Iter: 000, Train Loss: 3.0657, Train MAPE: 0.0854, Train RMSE: 6.1470
+2021-02-02 01:26:58,528 : Iter: 100, Train Loss: 2.8436, Train MAPE: 0.0815, Train RMSE: 5.9670
+2021-02-02 01:27:04,032 : Iter: 200, Train Loss: 2.9621, Train MAPE: 0.0804, Train RMSE: 5.9205
+2021-02-02 01:27:09,579 : Iter: 300, Train Loss: 3.0357, Train MAPE: 0.0820, Train RMSE: 5.6539
+2021-02-02 01:27:14,356 : Epoch: 019, Train Loss: 2.8595, Train MAPE: 0.0770, Train RMSE: 5.6749, Valid Loss: 2.7570, Valid MAPE: 0.0756, Valid RMSE: 5.2969, Training Time: 21.8111/epoch
+2021-02-02 01:27:15,652 : On average over 12 horizons, Test MAE: 3.0082, Test MAPE: 0.0824, Test RMSE: 5.9698
+2021-02-02 01:27:16,837 : Iter: 000, Train Loss: 2.8528, Train MAPE: 0.0821, Train RMSE: 5.9835
+2021-02-02 01:27:22,340 : Iter: 100, Train Loss: 2.8319, Train MAPE: 0.0711, Train RMSE: 5.4788
+2021-02-02 01:27:27,866 : Iter: 200, Train Loss: 2.6822, Train MAPE: 0.0727, Train RMSE: 5.4397
+2021-02-02 01:27:33,381 : Iter: 300, Train Loss: 2.7436, Train MAPE: 0.0728, Train RMSE: 5.4704
+2021-02-02 01:27:38,150 : Epoch: 020, Train Loss: 2.8536, Train MAPE: 0.0769, Train RMSE: 5.6653, Valid Loss: 2.7636, Valid MAPE: 0.0767, Valid RMSE: 5.2693, Training Time: 21.8105/epoch
+2021-02-02 01:27:39,429 : On average over 12 horizons, Test MAE: 2.9947, Test MAPE: 0.0828, Test RMSE: 5.9024
+2021-02-02 01:27:40,623 : Iter: 000, Train Loss: 2.9422, Train MAPE: 0.0783, Train RMSE: 5.6654
+2021-02-02 01:27:46,121 : Iter: 100, Train Loss: 2.7917, Train MAPE: 0.0719, Train RMSE: 5.5658
+2021-02-02 01:27:51,643 : Iter: 200, Train Loss: 2.8228, Train MAPE: 0.0706, Train RMSE: 5.5032
+2021-02-02 01:27:57,154 : Iter: 300, Train Loss: 2.8462, Train MAPE: 0.0774, Train RMSE: 5.7643
+2021-02-02 01:28:01,940 : Epoch: 021, Train Loss: 2.8482, Train MAPE: 0.0766, Train RMSE: 5.6544, Valid Loss: 2.7479, Valid MAPE: 0.0759, Valid RMSE: 5.2787, Training Time: 21.8176/epoch
+2021-02-02 01:28:03,221 : On average over 12 horizons, Test MAE: 2.9814, Test MAPE: 0.0821, Test RMSE: 5.9105
+2021-02-02 01:28:04,416 : Iter: 000, Train Loss: 3.1090, Train MAPE: 0.0877, Train RMSE: 6.0713
+2021-02-02 01:28:09,923 : Iter: 100, Train Loss: 2.6636, Train MAPE: 0.0706, Train RMSE: 5.2252
+2021-02-02 01:28:15,470 : Iter: 200, Train Loss: 3.0334, Train MAPE: 0.0860, Train RMSE: 6.0802
+2021-02-02 01:28:21,006 : Iter: 300, Train Loss: 2.6214, Train MAPE: 0.0663, Train RMSE: 5.1123
+2021-02-02 01:28:25,782 : Epoch: 022, Train Loss: 2.8410, Train MAPE: 0.0764, Train RMSE: 5.6428, Valid Loss: 2.7450, Valid MAPE: 0.0752, Valid RMSE: 5.2468, Training Time: 21.8736/epoch
+2021-02-02 01:28:27,064 : On average over 12 horizons, Test MAE: 2.9906, Test MAPE: 0.0815, Test RMSE: 5.9059
+2021-02-02 01:28:28,266 : Iter: 000, Train Loss: 2.8843, Train MAPE: 0.0820, Train RMSE: 5.7861
+2021-02-02 01:28:33,771 : Iter: 100, Train Loss: 2.8717, Train MAPE: 0.0710, Train RMSE: 5.6368
+2021-02-02 01:28:39,274 : Iter: 200, Train Loss: 2.7356, Train MAPE: 0.0711, Train RMSE: 5.3862
+2021-02-02 01:28:44,798 : Iter: 300, Train Loss: 2.9567, Train MAPE: 0.0827, Train RMSE: 5.9388
+2021-02-02 01:28:49,586 : Epoch: 023, Train Loss: 2.8354, Train MAPE: 0.0762, Train RMSE: 5.6321, Valid Loss: 2.7641, Valid MAPE: 0.0756, Valid RMSE: 5.2824, Training Time: 21.8358/epoch
+2021-02-02 01:28:50,868 : On average over 12 horizons, Test MAE: 2.9942, Test MAPE: 0.0817, Test RMSE: 5.8988
+2021-02-02 01:28:52,053 : Iter: 000, Train Loss: 2.8791, Train MAPE: 0.0793, Train RMSE: 5.6970
+2021-02-02 01:28:57,554 : Iter: 100, Train Loss: 2.7614, Train MAPE: 0.0785, Train RMSE: 5.6163
+2021-02-02 01:29:03,076 : Iter: 200, Train Loss: 2.9610, Train MAPE: 0.0816, Train RMSE: 6.0014
+2021-02-02 01:29:08,578 : Iter: 300, Train Loss: 2.5661, Train MAPE: 0.0639, Train RMSE: 5.2135
+2021-02-02 01:29:13,373 : Epoch: 024, Train Loss: 2.8324, Train MAPE: 0.0761, Train RMSE: 5.6274, Valid Loss: 2.7336, Valid MAPE: 0.0752, Valid RMSE: 5.2427, Training Time: 21.8020/epoch
+2021-02-02 01:29:14,648 : On average over 12 horizons, Test MAE: 2.9703, Test MAPE: 0.0814, Test RMSE: 5.8742
+2021-02-02 01:29:15,858 : Iter: 000, Train Loss: 2.8706, Train MAPE: 0.0718, Train RMSE: 5.5199
+2021-02-02 01:29:21,382 : Iter: 100, Train Loss: 2.7073, Train MAPE: 0.0727, Train RMSE: 5.4905
+2021-02-02 01:29:26,896 : Iter: 200, Train Loss: 2.7931, Train MAPE: 0.0764, Train RMSE: 5.5146
+2021-02-02 01:29:32,432 : Iter: 300, Train Loss: 2.7376, Train MAPE: 0.0764, Train RMSE: 5.4945
+2021-02-02 01:29:37,219 : Epoch: 025, Train Loss: 2.8252, Train MAPE: 0.0758, Train RMSE: 5.6106, Valid Loss: 2.7331, Valid MAPE: 0.0754, Valid RMSE: 5.2547, Training Time: 21.8740/epoch
+2021-02-02 01:29:38,494 : On average over 12 horizons, Test MAE: 2.9639, Test MAPE: 0.0816, Test RMSE: 5.8761
+2021-02-02 01:29:39,680 : Iter: 000, Train Loss: 2.8530, Train MAPE: 0.0792, Train RMSE: 5.6777
+2021-02-02 01:29:45,206 : Iter: 100, Train Loss: 2.7383, Train MAPE: 0.0761, Train RMSE: 5.6592
+2021-02-02 01:29:50,731 : Iter: 200, Train Loss: 2.7618, Train MAPE: 0.0766, Train RMSE: 5.4928
+2021-02-02 01:29:56,246 : Iter: 300, Train Loss: 2.8025, Train MAPE: 0.0750, Train RMSE: 5.5127
+2021-02-02 01:30:01,009 : Epoch: 026, Train Loss: 2.8231, Train MAPE: 0.0758, Train RMSE: 5.6084, Valid Loss: 2.7569, Valid MAPE: 0.0756, Valid RMSE: 5.2771, Training Time: 21.8278/epoch
+2021-02-02 01:30:02,289 : On average over 12 horizons, Test MAE: 2.9923, Test MAPE: 0.0822, Test RMSE: 5.9205
+2021-02-02 01:30:03,481 : Iter: 000, Train Loss: 2.7715, Train MAPE: 0.0798, Train RMSE: 5.7801
+2021-02-02 01:30:09,012 : Iter: 100, Train Loss: 2.7826, Train MAPE: 0.0747, Train RMSE: 5.6598
+2021-02-02 01:30:14,550 : Iter: 200, Train Loss: 3.0203, Train MAPE: 0.0839, Train RMSE: 5.9620
+2021-02-02 01:30:20,062 : Iter: 300, Train Loss: 2.8918, Train MAPE: 0.0737, Train RMSE: 5.5210
+2021-02-02 01:30:24,848 : Epoch: 027, Train Loss: 2.8163, Train MAPE: 0.0755, Train RMSE: 5.5900, Valid Loss: 2.7341, Valid MAPE: 0.0758, Valid RMSE: 5.2378, Training Time: 21.8651/epoch
+2021-02-02 01:30:26,136 : On average over 12 horizons, Test MAE: 2.9598, Test MAPE: 0.0819, Test RMSE: 5.8645
+2021-02-02 01:30:27,332 : Iter: 000, Train Loss: 2.7039, Train MAPE: 0.0739, Train RMSE: 5.4391
+2021-02-02 01:30:32,919 : Iter: 100, Train Loss: 2.8561, Train MAPE: 0.0758, Train RMSE: 5.5880
+2021-02-02 01:30:38,831 : Iter: 200, Train Loss: 2.6297, Train MAPE: 0.0699, Train RMSE: 5.3228
+2021-02-02 01:30:44,689 : Iter: 300, Train Loss: 2.9657, Train MAPE: 0.0797, Train RMSE: 6.0817
+2021-02-02 01:30:49,952 : Epoch: 028, Train Loss: 2.8131, Train MAPE: 0.0754, Train RMSE: 5.5866, Valid Loss: 2.7400, Valid MAPE: 0.0749, Valid RMSE: 5.2849, Training Time: 22.9377/epoch
+2021-02-02 01:30:51,254 : On average over 12 horizons, Test MAE: 2.9642, Test MAPE: 0.0810, Test RMSE: 5.8996
+2021-02-02 01:30:52,468 : Iter: 000, Train Loss: 2.7038, Train MAPE: 0.0693, Train RMSE: 5.2860
+2021-02-02 01:30:58,331 : Iter: 100, Train Loss: 2.5814, Train MAPE: 0.0631, Train RMSE: 4.9813
+2021-02-02 01:31:04,253 : Iter: 200, Train Loss: 2.7763, Train MAPE: 0.0746, Train RMSE: 5.4413
+2021-02-02 01:31:10,177 : Iter: 300, Train Loss: 2.9629, Train MAPE: 0.0780, Train RMSE: 5.8458
+2021-02-02 01:31:15,451 : Epoch: 029, Train Loss: 2.8092, Train MAPE: 0.0752, Train RMSE: 5.5775, Valid Loss: 2.7324, Valid MAPE: 0.0754, Valid RMSE: 5.2658, Training Time: 23.3323/epoch
+2021-02-02 01:31:16,743 : On average over 12 horizons, Test MAE: 2.9631, Test MAPE: 0.0816, Test RMSE: 5.8790
+2021-02-02 01:31:17,935 : Iter: 000, Train Loss: 2.7382, Train MAPE: 0.0683, Train RMSE: 5.3297
+2021-02-02 01:31:23,863 : Iter: 100, Train Loss: 2.9309, Train MAPE: 0.0781, Train RMSE: 5.7495
+2021-02-02 01:31:29,794 : Iter: 200, Train Loss: 2.9130, Train MAPE: 0.0898, Train RMSE: 6.0533
+2021-02-02 01:31:35,670 : Iter: 300, Train Loss: 2.6515, Train MAPE: 0.0696, Train RMSE: 5.3844
+2021-02-02 01:31:40,872 : Epoch: 030, Train Loss: 2.8052, Train MAPE: 0.0751, Train RMSE: 5.5719, Valid Loss: 2.7366, Valid MAPE: 0.0749, Valid RMSE: 5.2661, Training Time: 23.2534/epoch
+2021-02-02 01:31:42,169 : On average over 12 horizons, Test MAE: 2.9541, Test MAPE: 0.0807, Test RMSE: 5.8677
+2021-02-02 01:31:43,372 : Iter: 000, Train Loss: 2.9327, Train MAPE: 0.0781, Train RMSE: 5.7736
+2021-02-02 01:31:49,257 : Iter: 100, Train Loss: 3.0116, Train MAPE: 0.0845, Train RMSE: 6.0190
+2021-02-02 01:31:55,144 : Iter: 200, Train Loss: 2.8036, Train MAPE: 0.0751, Train RMSE: 5.5135
+2021-02-02 01:32:01,076 : Iter: 300, Train Loss: 2.7087, Train MAPE: 0.0710, Train RMSE: 5.3015
+2021-02-02 01:32:06,389 : Epoch: 031, Train Loss: 2.8002, Train MAPE: 0.0750, Train RMSE: 5.5634, Valid Loss: 2.7314, Valid MAPE: 0.0760, Valid RMSE: 5.2599, Training Time: 23.3545/epoch
+2021-02-02 01:32:07,678 : On average over 12 horizons, Test MAE: 2.9647, Test MAPE: 0.0823, Test RMSE: 5.9047
+2021-02-02 01:32:08,883 : Iter: 000, Train Loss: 2.9132, Train MAPE: 0.0795, Train RMSE: 5.7663
+2021-02-02 01:32:14,827 : Iter: 100, Train Loss: 2.8831, Train MAPE: 0.0805, Train RMSE: 5.6964
+2021-02-02 01:32:20,820 : Iter: 200, Train Loss: 2.5530, Train MAPE: 0.0629, Train RMSE: 5.0930
+2021-02-02 01:32:26,709 : Iter: 300, Train Loss: 2.7494, Train MAPE: 0.0698, Train RMSE: 5.3703
+2021-02-02 01:32:31,967 : Epoch: 032, Train Loss: 2.7971, Train MAPE: 0.0748, Train RMSE: 5.5556, Valid Loss: 2.7431, Valid MAPE: 0.0777, Valid RMSE: 5.2776, Training Time: 23.4268/epoch
+2021-02-02 01:32:33,259 : On average over 12 horizons, Test MAE: 2.9725, Test MAPE: 0.0841, Test RMSE: 5.9000
+2021-02-02 01:32:34,468 : Iter: 000, Train Loss: 2.6292, Train MAPE: 0.0679, Train RMSE: 5.2041
+2021-02-02 01:32:40,175 : Iter: 100, Train Loss: 2.7521, Train MAPE: 0.0715, Train RMSE: 5.4857
+2021-02-02 01:32:46,122 : Iter: 200, Train Loss: 2.7061, Train MAPE: 0.0715, Train RMSE: 5.4312
+2021-02-02 01:32:52,081 : Iter: 300, Train Loss: 2.8638, Train MAPE: 0.0760, Train RMSE: 5.8151
+2021-02-02 01:32:57,272 : Epoch: 033, Train Loss: 2.7945, Train MAPE: 0.0747, Train RMSE: 5.5500, Valid Loss: 2.7288, Valid MAPE: 0.0743, Valid RMSE: 5.2546, Training Time: 23.1787/epoch
+2021-02-02 01:32:58,570 : On average over 12 horizons, Test MAE: 2.9657, Test MAPE: 0.0808, Test RMSE: 5.8883
+2021-02-02 01:32:59,771 : Iter: 000, Train Loss: 2.7679, Train MAPE: 0.0730, Train RMSE: 5.5854
+2021-02-02 01:33:05,771 : Iter: 100, Train Loss: 2.8362, Train MAPE: 0.0746, Train RMSE: 5.6099
+2021-02-02 01:33:11,710 : Iter: 200, Train Loss: 2.6598, Train MAPE: 0.0727, Train RMSE: 5.3455
+2021-02-02 01:33:17,614 : Iter: 300, Train Loss: 2.9069, Train MAPE: 0.0800, Train RMSE: 5.8275
+2021-02-02 01:33:22,882 : Epoch: 034, Train Loss: 2.7888, Train MAPE: 0.0745, Train RMSE: 5.5371, Valid Loss: 2.7308, Valid MAPE: 0.0746, Valid RMSE: 5.2655, Training Time: 23.4197/epoch
+2021-02-02 01:33:24,186 : On average over 12 horizons, Test MAE: 2.9501, Test MAPE: 0.0802, Test RMSE: 5.8674
+2021-02-02 01:33:25,379 : Iter: 000, Train Loss: 2.8554, Train MAPE: 0.0758, Train RMSE: 5.8052
+2021-02-02 01:33:31,344 : Iter: 100, Train Loss: 2.9610, Train MAPE: 0.0836, Train RMSE: 5.8241
+2021-02-02 01:33:37,268 : Iter: 200, Train Loss: 2.7951, Train MAPE: 0.0740, Train RMSE: 5.3803
+2021-02-02 01:33:43,153 : Iter: 300, Train Loss: 3.0047, Train MAPE: 0.0895, Train RMSE: 6.1473
+2021-02-02 01:33:48,391 : Epoch: 035, Train Loss: 2.7870, Train MAPE: 0.0744, Train RMSE: 5.5347, Valid Loss: 2.7357, Valid MAPE: 0.0757, Valid RMSE: 5.2507, Training Time: 23.3571/epoch
+2021-02-02 01:33:49,670 : On average over 12 horizons, Test MAE: 2.9630, Test MAPE: 0.0819, Test RMSE: 5.8764
+2021-02-02 01:33:50,902 : Iter: 000, Train Loss: 2.7410, Train MAPE: 0.0772, Train RMSE: 5.6115
+2021-02-02 01:33:56,486 : Iter: 100, Train Loss: 3.0021, Train MAPE: 0.0788, Train RMSE: 5.8957
+2021-02-02 01:34:02,055 : Iter: 200, Train Loss: 2.7565, Train MAPE: 0.0711, Train RMSE: 5.4089
+2021-02-02 01:34:07,618 : Iter: 300, Train Loss: 2.6543, Train MAPE: 0.0670, Train RMSE: 5.2568
+2021-02-02 01:34:12,447 : Epoch: 036, Train Loss: 2.7842, Train MAPE: 0.0743, Train RMSE: 5.5307, Valid Loss: 2.7320, Valid MAPE: 0.0754, Valid RMSE: 5.2892, Training Time: 22.0858/epoch
+2021-02-02 01:34:13,729 : On average over 12 horizons, Test MAE: 2.9722, Test MAPE: 0.0822, Test RMSE: 5.9448
+2021-02-02 01:34:14,939 : Iter: 000, Train Loss: 2.8085, Train MAPE: 0.0730, Train RMSE: 5.4103
+2021-02-02 01:34:20,486 : Iter: 100, Train Loss: 2.7318, Train MAPE: 0.0697, Train RMSE: 5.3519
+2021-02-02 01:34:26,049 : Iter: 200, Train Loss: 2.6295, Train MAPE: 0.0671, Train RMSE: 5.1690
+2021-02-02 01:34:31,615 : Iter: 300, Train Loss: 2.6703, Train MAPE: 0.0706, Train RMSE: 5.4704
+2021-02-02 01:34:36,446 : Epoch: 037, Train Loss: 2.7807, Train MAPE: 0.0742, Train RMSE: 5.5211, Valid Loss: 2.7495, Valid MAPE: 0.0779, Valid RMSE: 5.2672, Training Time: 22.0280/epoch
+2021-02-02 01:34:37,724 : On average over 12 horizons, Test MAE: 2.9796, Test MAPE: 0.0846, Test RMSE: 5.9063
+2021-02-02 01:34:38,935 : Iter: 000, Train Loss: 3.0889, Train MAPE: 0.0894, Train RMSE: 6.0495
+2021-02-02 01:34:44,529 : Iter: 100, Train Loss: 2.8039, Train MAPE: 0.0719, Train RMSE: 5.3845
+2021-02-02 01:34:50,090 : Iter: 200, Train Loss: 2.7321, Train MAPE: 0.0728, Train RMSE: 5.3869
+2021-02-02 01:34:55,699 : Iter: 300, Train Loss: 2.9319, Train MAPE: 0.0767, Train RMSE: 5.8436
+2021-02-02 01:35:00,481 : Epoch: 038, Train Loss: 2.7778, Train MAPE: 0.0741, Train RMSE: 5.5150, Valid Loss: 2.7213, Valid MAPE: 0.0753, Valid RMSE: 5.2590, Training Time: 22.0687/epoch
+2021-02-02 01:35:01,756 : On average over 12 horizons, Test MAE: 2.9506, Test MAPE: 0.0816, Test RMSE: 5.8843
+2021-02-02 01:35:02,966 : Iter: 000, Train Loss: 2.7403, Train MAPE: 0.0729, Train RMSE: 5.4672
+2021-02-02 01:35:08,538 : Iter: 100, Train Loss: 2.8058, Train MAPE: 0.0777, Train RMSE: 5.6082
+2021-02-02 01:35:14,107 : Iter: 200, Train Loss: 2.7517, Train MAPE: 0.0742, Train RMSE: 5.5281
+2021-02-02 01:35:19,654 : Iter: 300, Train Loss: 2.7667, Train MAPE: 0.0760, Train RMSE: 5.4783
+2021-02-02 01:35:24,506 : Epoch: 039, Train Loss: 2.7765, Train MAPE: 0.0740, Train RMSE: 5.5113, Valid Loss: 2.7209, Valid MAPE: 0.0757, Valid RMSE: 5.2495, Training Time: 22.0269/epoch
+2021-02-02 01:35:25,788 : On average over 12 horizons, Test MAE: 2.9464, Test MAPE: 0.0819, Test RMSE: 5.8708
+2021-02-02 01:35:26,993 : Iter: 000, Train Loss: 2.8756, Train MAPE: 0.0843, Train RMSE: 5.8181
+2021-02-02 01:35:32,547 : Iter: 100, Train Loss: 2.7920, Train MAPE: 0.0701, Train RMSE: 5.4428
+2021-02-02 01:35:38,112 : Iter: 200, Train Loss: 2.5231, Train MAPE: 0.0623, Train RMSE: 5.1546
+2021-02-02 01:35:43,685 : Iter: 300, Train Loss: 3.0435, Train MAPE: 0.0851, Train RMSE: 6.0897
+2021-02-02 01:35:48,478 : Epoch: 040, Train Loss: 2.7719, Train MAPE: 0.0739, Train RMSE: 5.5019, Valid Loss: 2.7247, Valid MAPE: 0.0759, Valid RMSE: 5.2505, Training Time: 21.9983/epoch
+2021-02-02 01:35:49,753 : On average over 12 horizons, Test MAE: 2.9477, Test MAPE: 0.0820, Test RMSE: 5.8604
+2021-02-02 01:35:50,947 : Iter: 000, Train Loss: 2.8719, Train MAPE: 0.0812, Train RMSE: 5.7154
+2021-02-02 01:35:56,533 : Iter: 100, Train Loss: 2.6950, Train MAPE: 0.0720, Train RMSE: 5.3964
+2021-02-02 01:36:02,050 : Iter: 200, Train Loss: 2.8469, Train MAPE: 0.0823, Train RMSE: 5.8070
+2021-02-02 01:36:07,614 : Iter: 300, Train Loss: 2.7513, Train MAPE: 0.0712, Train RMSE: 5.3588
+2021-02-02 01:36:12,430 : Epoch: 041, Train Loss: 2.7694, Train MAPE: 0.0738, Train RMSE: 5.4953, Valid Loss: 2.7275, Valid MAPE: 0.0736, Valid RMSE: 5.2690, Training Time: 21.9866/epoch
+2021-02-02 01:36:13,718 : On average over 12 horizons, Test MAE: 2.9512, Test MAPE: 0.0800, Test RMSE: 5.8766
+2021-02-02 01:36:14,904 : Iter: 000, Train Loss: 2.7018, Train MAPE: 0.0755, Train RMSE: 5.5974
+2021-02-02 01:36:20,458 : Iter: 100, Train Loss: 2.6590, Train MAPE: 0.0689, Train RMSE: 5.2840
+2021-02-02 01:36:26,018 : Iter: 200, Train Loss: 2.8008, Train MAPE: 0.0737, Train RMSE: 5.6142
+2021-02-02 01:36:31,575 : Iter: 300, Train Loss: 2.8753, Train MAPE: 0.0758, Train RMSE: 5.5761
+2021-02-02 01:36:36,398 : Epoch: 042, Train Loss: 2.7661, Train MAPE: 0.0737, Train RMSE: 5.4914, Valid Loss: 2.7093, Valid MAPE: 0.0749, Valid RMSE: 5.2174, Training Time: 21.9795/epoch
+2021-02-02 01:36:37,687 : On average over 12 horizons, Test MAE: 2.9456, Test MAPE: 0.0816, Test RMSE: 5.8810
+2021-02-02 01:36:38,890 : Iter: 000, Train Loss: 2.8166, Train MAPE: 0.0804, Train RMSE: 5.7092
+2021-02-02 01:36:44,455 : Iter: 100, Train Loss: 2.6689, Train MAPE: 0.0707, Train RMSE: 5.3052
+2021-02-02 01:36:50,025 : Iter: 200, Train Loss: 2.9667, Train MAPE: 0.0922, Train RMSE: 6.1351
+2021-02-02 01:36:55,606 : Iter: 300, Train Loss: 2.7822, Train MAPE: 0.0780, Train RMSE: 5.6683
+2021-02-02 01:37:00,384 : Epoch: 043, Train Loss: 2.7656, Train MAPE: 0.0737, Train RMSE: 5.4865, Valid Loss: 2.7281, Valid MAPE: 0.0745, Valid RMSE: 5.2662, Training Time: 22.0116/epoch
+2021-02-02 01:37:01,658 : On average over 12 horizons, Test MAE: 2.9531, Test MAPE: 0.0804, Test RMSE: 5.8746
+2021-02-02 01:37:02,842 : Iter: 000, Train Loss: 2.7784, Train MAPE: 0.0763, Train RMSE: 5.4888
+2021-02-02 01:37:08,376 : Iter: 100, Train Loss: 2.8265, Train MAPE: 0.0786, Train RMSE: 5.6711
+2021-02-02 01:37:13,908 : Iter: 200, Train Loss: 2.8554, Train MAPE: 0.0768, Train RMSE: 5.6392
+2021-02-02 01:37:19,427 : Iter: 300, Train Loss: 2.7869, Train MAPE: 0.0718, Train RMSE: 5.4692
+2021-02-02 01:37:24,196 : Epoch: 044, Train Loss: 2.7621, Train MAPE: 0.0735, Train RMSE: 5.4833, Valid Loss: 2.7248, Valid MAPE: 0.0742, Valid RMSE: 5.2357, Training Time: 21.8450/epoch
+2021-02-02 01:37:25,473 : On average over 12 horizons, Test MAE: 2.9476, Test MAPE: 0.0804, Test RMSE: 5.8592
+2021-02-02 01:37:26,653 : Iter: 000, Train Loss: 2.8767, Train MAPE: 0.0795, Train RMSE: 5.6156
+2021-02-02 01:37:32,161 : Iter: 100, Train Loss: 2.8400, Train MAPE: 0.0733, Train RMSE: 5.4588
+2021-02-02 01:37:37,688 : Iter: 200, Train Loss: 2.7222, Train MAPE: 0.0751, Train RMSE: 5.5262
+2021-02-02 01:37:43,237 : Iter: 300, Train Loss: 2.7842, Train MAPE: 0.0721, Train RMSE: 5.5133
+2021-02-02 01:37:48,007 : Epoch: 045, Train Loss: 2.7573, Train MAPE: 0.0733, Train RMSE: 5.4711, Valid Loss: 2.7288, Valid MAPE: 0.0748, Valid RMSE: 5.2362, Training Time: 21.8427/epoch
+2021-02-02 01:37:49,284 : On average over 12 horizons, Test MAE: 2.9471, Test MAPE: 0.0810, Test RMSE: 5.8476
+2021-02-02 01:37:50,475 : Iter: 000, Train Loss: 2.7834, Train MAPE: 0.0725, Train RMSE: 5.4820
+2021-02-02 01:37:55,994 : Iter: 100, Train Loss: 2.7026, Train MAPE: 0.0733, Train RMSE: 5.6180
+2021-02-02 01:38:01,518 : Iter: 200, Train Loss: 2.6547, Train MAPE: 0.0655, Train RMSE: 5.1243
+2021-02-02 01:38:07,044 : Iter: 300, Train Loss: 2.8443, Train MAPE: 0.0725, Train RMSE: 5.4837
+2021-02-02 01:38:11,826 : Epoch: 046, Train Loss: 2.7564, Train MAPE: 0.0733, Train RMSE: 5.4693, Valid Loss: 2.7254, Valid MAPE: 0.0739, Valid RMSE: 5.2882, Training Time: 21.8489/epoch
+2021-02-02 01:38:13,123 : On average over 12 horizons, Test MAE: 2.9550, Test MAPE: 0.0801, Test RMSE: 5.9082
+2021-02-02 01:38:14,333 : Iter: 000, Train Loss: 2.9367, Train MAPE: 0.0814, Train RMSE: 5.9420
+2021-02-02 01:38:19,845 : Iter: 100, Train Loss: 2.5527, Train MAPE: 0.0671, Train RMSE: 5.1686
+2021-02-02 01:38:25,379 : Iter: 200, Train Loss: 2.7848, Train MAPE: 0.0711, Train RMSE: 5.3161
+2021-02-02 01:38:30,909 : Iter: 300, Train Loss: 2.7475, Train MAPE: 0.0712, Train RMSE: 5.4606
+2021-02-02 01:38:35,685 : Epoch: 047, Train Loss: 2.7546, Train MAPE: 0.0733, Train RMSE: 5.4650, Valid Loss: 2.7292, Valid MAPE: 0.0732, Valid RMSE: 5.2574, Training Time: 21.8692/epoch
+2021-02-02 01:38:36,969 : On average over 12 horizons, Test MAE: 2.9520, Test MAPE: 0.0795, Test RMSE: 5.8689
+2021-02-02 01:38:38,149 : Iter: 000, Train Loss: 2.8311, Train MAPE: 0.0784, Train RMSE: 5.8278
+2021-02-02 01:38:43,657 : Iter: 100, Train Loss: 3.0575, Train MAPE: 0.0851, Train RMSE: 6.0119
+2021-02-02 01:38:49,194 : Iter: 200, Train Loss: 2.9304, Train MAPE: 0.0768, Train RMSE: 5.6518
+2021-02-02 01:38:54,698 : Iter: 300, Train Loss: 2.9137, Train MAPE: 0.0780, Train RMSE: 5.6886
+2021-02-02 01:38:59,468 : Epoch: 048, Train Loss: 2.7517, Train MAPE: 0.0731, Train RMSE: 5.4573, Valid Loss: 2.7218, Valid MAPE: 0.0745, Valid RMSE: 5.2642, Training Time: 21.8108/epoch
+2021-02-02 01:39:00,746 : On average over 12 horizons, Test MAE: 2.9453, Test MAPE: 0.0811, Test RMSE: 5.8822
+2021-02-02 01:39:01,924 : Iter: 000, Train Loss: 2.5332, Train MAPE: 0.0692, Train RMSE: 5.0815
+2021-02-02 01:39:07,468 : Iter: 100, Train Loss: 2.8879, Train MAPE: 0.0771, Train RMSE: 5.6493
+2021-02-02 01:39:13,025 : Iter: 200, Train Loss: 2.7592, Train MAPE: 0.0720, Train RMSE: 5.4120
+2021-02-02 01:39:18,549 : Iter: 300, Train Loss: 2.5973, Train MAPE: 0.0642, Train RMSE: 5.0563
+2021-02-02 01:39:23,314 : Epoch: 049, Train Loss: 2.7479, Train MAPE: 0.0730, Train RMSE: 5.4523, Valid Loss: 2.7196, Valid MAPE: 0.0744, Valid RMSE: 5.2541, Training Time: 21.8688/epoch
+2021-02-02 01:39:24,599 : On average over 12 horizons, Test MAE: 2.9513, Test MAPE: 0.0810, Test RMSE: 5.8887
+2021-02-02 01:39:25,776 : Iter: 000, Train Loss: 2.6827, Train MAPE: 0.0711, Train RMSE: 5.2727
+2021-02-02 01:39:31,325 : Iter: 100, Train Loss: 2.8406, Train MAPE: 0.0729, Train RMSE: 5.5101
+2021-02-02 01:39:36,846 : Iter: 200, Train Loss: 2.8751, Train MAPE: 0.0784, Train RMSE: 5.6578
+2021-02-02 01:39:42,379 : Iter: 300, Train Loss: 2.8804, Train MAPE: 0.0764, Train RMSE: 5.4857
+2021-02-02 01:39:47,153 : Epoch: 050, Train Loss: 2.7478, Train MAPE: 0.0730, Train RMSE: 5.4516, Valid Loss: 2.7195, Valid MAPE: 0.0736, Valid RMSE: 5.2476, Training Time: 21.8606/epoch
+2021-02-02 01:39:48,430 : On average over 12 horizons, Test MAE: 2.9340, Test MAPE: 0.0799, Test RMSE: 5.8318
+2021-02-02 01:39:49,625 : Iter: 000, Train Loss: 2.9481, Train MAPE: 0.0818, Train RMSE: 5.8520
+2021-02-02 01:39:55,146 : Iter: 100, Train Loss: 2.9408, Train MAPE: 0.0863, Train RMSE: 5.8871
+2021-02-02 01:40:00,664 : Iter: 200, Train Loss: 2.8682, Train MAPE: 0.0768, Train RMSE: 5.5612
+2021-02-02 01:40:06,203 : Iter: 300, Train Loss: 2.7398, Train MAPE: 0.0726, Train RMSE: 5.3231
+2021-02-02 01:40:10,992 : Epoch: 051, Train Loss: 2.7460, Train MAPE: 0.0729, Train RMSE: 5.4459, Valid Loss: 2.7296, Valid MAPE: 0.0740, Valid RMSE: 5.2771, Training Time: 21.8729/epoch
+2021-02-02 01:40:12,281 : On average over 12 horizons, Test MAE: 2.9405, Test MAPE: 0.0799, Test RMSE: 5.8531
+2021-02-02 01:40:13,485 : Iter: 000, Train Loss: 2.5359, Train MAPE: 0.0634, Train RMSE: 5.0634
+2021-02-02 01:40:19,010 : Iter: 100, Train Loss: 2.8484, Train MAPE: 0.0770, Train RMSE: 5.4917
+2021-02-02 01:40:24,559 : Iter: 200, Train Loss: 2.5397, Train MAPE: 0.0682, Train RMSE: 5.2541
+2021-02-02 01:40:30,117 : Iter: 300, Train Loss: 2.8297, Train MAPE: 0.0791, Train RMSE: 5.8521
+2021-02-02 01:40:34,886 : Epoch: 052, Train Loss: 2.7429, Train MAPE: 0.0728, Train RMSE: 5.4389, Valid Loss: 2.7298, Valid MAPE: 0.0735, Valid RMSE: 5.2707, Training Time: 21.9126/epoch
+2021-02-02 01:40:36,164 : On average over 12 horizons, Test MAE: 2.9454, Test MAPE: 0.0797, Test RMSE: 5.8573
+2021-02-02 01:40:37,366 : Iter: 000, Train Loss: 2.4260, Train MAPE: 0.0582, Train RMSE: 4.7988
+2021-02-02 01:40:42,885 : Iter: 100, Train Loss: 2.9764, Train MAPE: 0.0809, Train RMSE: 5.9747
+2021-02-02 01:40:48,386 : Iter: 200, Train Loss: 2.8641, Train MAPE: 0.0789, Train RMSE: 5.6130
+2021-02-02 01:40:53,899 : Iter: 300, Train Loss: 2.8842, Train MAPE: 0.0748, Train RMSE: 5.6816
+2021-02-02 01:40:58,668 : Epoch: 053, Train Loss: 2.7428, Train MAPE: 0.0728, Train RMSE: 5.4389, Valid Loss: 2.7185, Valid MAPE: 0.0736, Valid RMSE: 5.2645, Training Time: 21.8155/epoch
+2021-02-02 01:40:59,946 : On average over 12 horizons, Test MAE: 2.9409, Test MAPE: 0.0800, Test RMSE: 5.8800
+2021-02-02 01:41:01,134 : Iter: 000, Train Loss: 2.7576, Train MAPE: 0.0718, Train RMSE: 5.4669
+2021-02-02 01:41:06,676 : Iter: 100, Train Loss: 2.6249, Train MAPE: 0.0660, Train RMSE: 5.1195
+2021-02-02 01:41:12,220 : Iter: 200, Train Loss: 2.5455, Train MAPE: 0.0600, Train RMSE: 4.7185
+2021-02-02 01:41:17,757 : Iter: 300, Train Loss: 2.6501, Train MAPE: 0.0711, Train RMSE: 5.2444
+2021-02-02 01:41:22,538 : Epoch: 054, Train Loss: 2.7402, Train MAPE: 0.0727, Train RMSE: 5.4313, Valid Loss: 2.7084, Valid MAPE: 0.0738, Valid RMSE: 5.2357, Training Time: 21.9022/epoch
+2021-02-02 01:41:23,817 : On average over 12 horizons, Test MAE: 2.9437, Test MAPE: 0.0804, Test RMSE: 5.8746
+2021-02-02 01:41:25,010 : Iter: 000, Train Loss: 2.8090, Train MAPE: 0.0744, Train RMSE: 5.7393
+2021-02-02 01:41:30,541 : Iter: 100, Train Loss: 2.6832, Train MAPE: 0.0729, Train RMSE: 5.4226
+2021-02-02 01:41:36,045 : Iter: 200, Train Loss: 2.6098, Train MAPE: 0.0671, Train RMSE: 5.1675
+2021-02-02 01:41:41,574 : Iter: 300, Train Loss: 2.9277, Train MAPE: 0.0817, Train RMSE: 5.8138
+2021-02-02 01:41:46,347 : Epoch: 055, Train Loss: 2.7349, Train MAPE: 0.0725, Train RMSE: 5.4229, Valid Loss: 2.7207, Valid MAPE: 0.0749, Valid RMSE: 5.2615, Training Time: 21.8396/epoch
+2021-02-02 01:41:47,624 : On average over 12 horizons, Test MAE: 2.9479, Test MAPE: 0.0814, Test RMSE: 5.8968
+2021-02-02 01:41:48,806 : Iter: 000, Train Loss: 2.7171, Train MAPE: 0.0711, Train RMSE: 5.3817
+2021-02-02 01:41:54,331 : Iter: 100, Train Loss: 2.7022, Train MAPE: 0.0705, Train RMSE: 5.3448
+2021-02-02 01:41:59,858 : Iter: 200, Train Loss: 2.7500, Train MAPE: 0.0682, Train RMSE: 5.3501
+2021-02-02 01:42:05,374 : Iter: 300, Train Loss: 2.9300, Train MAPE: 0.0828, Train RMSE: 5.8399
+2021-02-02 01:42:10,171 : Epoch: 056, Train Loss: 2.7356, Train MAPE: 0.0726, Train RMSE: 5.4217, Valid Loss: 2.7355, Valid MAPE: 0.0761, Valid RMSE: 5.2826, Training Time: 21.8250/epoch
+2021-02-02 01:42:11,448 : On average over 12 horizons, Test MAE: 2.9573, Test MAPE: 0.0827, Test RMSE: 5.9009
+2021-02-02 01:42:12,641 : Iter: 000, Train Loss: 2.6485, Train MAPE: 0.0688, Train RMSE: 5.3983
+2021-02-02 01:42:18,153 : Iter: 100, Train Loss: 2.6413, Train MAPE: 0.0687, Train RMSE: 5.3183
+2021-02-02 01:42:23,673 : Iter: 200, Train Loss: 2.8015, Train MAPE: 0.0762, Train RMSE: 5.6012
+2021-02-02 01:42:29,244 : Iter: 300, Train Loss: 2.6745, Train MAPE: 0.0687, Train RMSE: 5.4556
+2021-02-02 01:42:34,008 : Epoch: 057, Train Loss: 2.7346, Train MAPE: 0.0725, Train RMSE: 5.4190, Valid Loss: 2.7152, Valid MAPE: 0.0740, Valid RMSE: 5.2639, Training Time: 21.8729/epoch
+2021-02-02 01:42:35,291 : On average over 12 horizons, Test MAE: 2.9455, Test MAPE: 0.0808, Test RMSE: 5.8998
+2021-02-02 01:42:36,466 : Iter: 000, Train Loss: 2.4864, Train MAPE: 0.0622, Train RMSE: 4.9578
+2021-02-02 01:42:41,986 : Iter: 100, Train Loss: 2.6771, Train MAPE: 0.0735, Train RMSE: 5.3763
+2021-02-02 01:42:47,508 : Iter: 200, Train Loss: 2.9199, Train MAPE: 0.0758, Train RMSE: 5.5007
+2021-02-02 01:42:53,047 : Iter: 300, Train Loss: 2.8469, Train MAPE: 0.0771, Train RMSE: 5.5202
+2021-02-02 01:42:57,803 : Epoch: 058, Train Loss: 2.7320, Train MAPE: 0.0724, Train RMSE: 5.4151, Valid Loss: 2.7172, Valid MAPE: 0.0741, Valid RMSE: 5.2650, Training Time: 21.8264/epoch
+2021-02-02 01:42:59,076 : On average over 12 horizons, Test MAE: 2.9355, Test MAPE: 0.0805, Test RMSE: 5.8589
+2021-02-02 01:43:00,275 : Iter: 000, Train Loss: 2.9090, Train MAPE: 0.0814, Train RMSE: 5.9505
+2021-02-02 01:43:05,804 : Iter: 100, Train Loss: 2.8160, Train MAPE: 0.0721, Train RMSE: 5.5492
+2021-02-02 01:43:11,333 : Iter: 200, Train Loss: 2.7023, Train MAPE: 0.0703, Train RMSE: 5.2887
+2021-02-02 01:43:16,871 : Iter: 300, Train Loss: 2.6608, Train MAPE: 0.0742, Train RMSE: 5.5831
+2021-02-02 01:43:21,664 : Epoch: 059, Train Loss: 2.7282, Train MAPE: 0.0723, Train RMSE: 5.4077, Valid Loss: 2.7188, Valid MAPE: 0.0741, Valid RMSE: 5.2396, Training Time: 21.8894/epoch
+2021-02-02 01:43:22,938 : On average over 12 horizons, Test MAE: 2.9373, Test MAPE: 0.0803, Test RMSE: 5.8499
+2021-02-02 01:43:24,134 : Iter: 000, Train Loss: 2.6503, Train MAPE: 0.0637, Train RMSE: 5.0783
+2021-02-02 01:43:29,666 : Iter: 100, Train Loss: 2.9528, Train MAPE: 0.0774, Train RMSE: 5.8316
+2021-02-02 01:43:35,208 : Iter: 200, Train Loss: 2.5140, Train MAPE: 0.0629, Train RMSE: 4.9669
+2021-02-02 01:43:40,717 : Iter: 300, Train Loss: 2.4917, Train MAPE: 0.0651, Train RMSE: 5.1196
+2021-02-02 01:43:45,500 : Epoch: 060, Train Loss: 2.7276, Train MAPE: 0.0723, Train RMSE: 5.4050, Valid Loss: 2.7129, Valid MAPE: 0.0740, Valid RMSE: 5.2294, Training Time: 21.8697/epoch
+2021-02-02 01:43:46,784 : On average over 12 horizons, Test MAE: 2.9415, Test MAPE: 0.0809, Test RMSE: 5.8771
+2021-02-02 01:43:47,973 : Iter: 000, Train Loss: 2.6068, Train MAPE: 0.0666, Train RMSE: 5.1498
+2021-02-02 01:43:53,529 : Iter: 100, Train Loss: 2.7956, Train MAPE: 0.0775, Train RMSE: 5.7214
+2021-02-02 01:43:59,018 : Iter: 200, Train Loss: 2.6862, Train MAPE: 0.0675, Train RMSE: 5.1643
+2021-02-02 01:44:04,560 : Iter: 300, Train Loss: 2.7275, Train MAPE: 0.0722, Train RMSE: 5.5452
+2021-02-02 01:44:09,346 : Epoch: 061, Train Loss: 2.7260, Train MAPE: 0.0722, Train RMSE: 5.3993, Valid Loss: 2.7146, Valid MAPE: 0.0743, Valid RMSE: 5.2686, Training Time: 21.8716/epoch
+2021-02-02 01:44:10,629 : On average over 12 horizons, Test MAE: 2.9394, Test MAPE: 0.0807, Test RMSE: 5.8775
+2021-02-02 01:44:11,850 : Iter: 000, Train Loss: 2.7333, Train MAPE: 0.0708, Train RMSE: 5.4906
+2021-02-02 01:44:17,414 : Iter: 100, Train Loss: 2.7043, Train MAPE: 0.0695, Train RMSE: 5.2653
+2021-02-02 01:44:22,938 : Iter: 200, Train Loss: 2.6585, Train MAPE: 0.0677, Train RMSE: 5.3704
+2021-02-02 01:44:28,444 : Iter: 300, Train Loss: 2.8283, Train MAPE: 0.0799, Train RMSE: 5.8761
+2021-02-02 01:44:33,250 : Epoch: 062, Train Loss: 2.7242, Train MAPE: 0.0721, Train RMSE: 5.3968, Valid Loss: 2.7170, Valid MAPE: 0.0749, Valid RMSE: 5.2180, Training Time: 21.9284/epoch
+2021-02-02 01:44:34,530 : On average over 12 horizons, Test MAE: 2.9414, Test MAPE: 0.0811, Test RMSE: 5.8544
+2021-02-02 01:44:35,720 : Iter: 000, Train Loss: 2.7628, Train MAPE: 0.0733, Train RMSE: 5.3878
+2021-02-02 01:44:41,246 : Iter: 100, Train Loss: 2.7934, Train MAPE: 0.0740, Train RMSE: 5.4991
+2021-02-02 01:44:46,772 : Iter: 200, Train Loss: 2.6902, Train MAPE: 0.0721, Train RMSE: 5.2605
+2021-02-02 01:44:52,303 : Iter: 300, Train Loss: 2.7678, Train MAPE: 0.0739, Train RMSE: 5.4367
+2021-02-02 01:44:57,097 : Epoch: 063, Train Loss: 2.7223, Train MAPE: 0.0721, Train RMSE: 5.3918, Valid Loss: 2.7109, Valid MAPE: 0.0741, Valid RMSE: 5.2479, Training Time: 21.8666/epoch
+2021-02-02 01:44:58,373 : On average over 12 horizons, Test MAE: 2.9311, Test MAPE: 0.0803, Test RMSE: 5.8616
+2021-02-02 01:44:59,559 : Iter: 000, Train Loss: 2.8280, Train MAPE: 0.0752, Train RMSE: 5.5312
+2021-02-02 01:45:05,101 : Iter: 100, Train Loss: 2.6273, Train MAPE: 0.0654, Train RMSE: 5.0771
+2021-02-02 01:45:10,647 : Iter: 200, Train Loss: 2.7482, Train MAPE: 0.0706, Train RMSE: 5.3425
+2021-02-02 01:45:16,187 : Iter: 300, Train Loss: 2.5186, Train MAPE: 0.0627, Train RMSE: 5.0139
+2021-02-02 01:45:20,972 : Epoch: 064, Train Loss: 2.7209, Train MAPE: 0.0720, Train RMSE: 5.3889, Valid Loss: 2.7268, Valid MAPE: 0.0752, Valid RMSE: 5.2845, Training Time: 21.9113/epoch
+2021-02-02 01:45:22,257 : On average over 12 horizons, Test MAE: 2.9607, Test MAPE: 0.0820, Test RMSE: 5.9462
+2021-02-02 01:45:23,455 : Iter: 000, Train Loss: 2.7034, Train MAPE: 0.0708, Train RMSE: 5.5224
+2021-02-02 01:45:28,989 : Iter: 100, Train Loss: 2.8029, Train MAPE: 0.0754, Train RMSE: 5.6718
+2021-02-02 01:45:34,537 : Iter: 200, Train Loss: 2.7409, Train MAPE: 0.0723, Train RMSE: 5.4383
+2021-02-02 01:45:40,052 : Iter: 300, Train Loss: 2.8593, Train MAPE: 0.0757, Train RMSE: 5.6326
+2021-02-02 01:45:44,857 : Epoch: 065, Train Loss: 2.7189, Train MAPE: 0.0719, Train RMSE: 5.3843, Valid Loss: 2.7119, Valid MAPE: 0.0742, Valid RMSE: 5.2606, Training Time: 21.9114/epoch
+2021-02-02 01:45:46,139 : On average over 12 horizons, Test MAE: 2.9376, Test MAPE: 0.0806, Test RMSE: 5.8867
+2021-02-02 01:45:47,320 : Iter: 000, Train Loss: 2.7416, Train MAPE: 0.0705, Train RMSE: 5.3406
+2021-02-02 01:45:52,851 : Iter: 100, Train Loss: 2.7519, Train MAPE: 0.0724, Train RMSE: 5.3426
+2021-02-02 01:45:58,368 : Iter: 200, Train Loss: 2.5976, Train MAPE: 0.0702, Train RMSE: 5.2718
+2021-02-02 01:46:03,904 : Iter: 300, Train Loss: 2.5895, Train MAPE: 0.0652, Train RMSE: 5.1549
+2021-02-02 01:46:08,690 : Epoch: 066, Train Loss: 2.7174, Train MAPE: 0.0719, Train RMSE: 5.3799, Valid Loss: 2.7411, Valid MAPE: 0.0759, Valid RMSE: 5.2520, Training Time: 21.8427/epoch
+2021-02-02 01:46:09,968 : On average over 12 horizons, Test MAE: 2.9541, Test MAPE: 0.0823, Test RMSE: 5.8645
+2021-02-02 01:46:11,174 : Iter: 000, Train Loss: 2.6779, Train MAPE: 0.0744, Train RMSE: 5.3030
+2021-02-02 01:46:16,726 : Iter: 100, Train Loss: 2.6829, Train MAPE: 0.0730, Train RMSE: 5.3743
+2021-02-02 01:46:22,229 : Iter: 200, Train Loss: 2.7041, Train MAPE: 0.0677, Train RMSE: 5.2648
+2021-02-02 01:46:27,789 : Iter: 300, Train Loss: 2.6467, Train MAPE: 0.0674, Train RMSE: 5.1620
+2021-02-02 01:46:32,587 : Epoch: 067, Train Loss: 2.7164, Train MAPE: 0.0719, Train RMSE: 5.3786, Valid Loss: 2.7170, Valid MAPE: 0.0754, Valid RMSE: 5.2750, Training Time: 21.9221/epoch
+2021-02-02 01:46:33,873 : On average over 12 horizons, Test MAE: 2.9414, Test MAPE: 0.0818, Test RMSE: 5.8965
+2021-02-02 01:46:35,071 : Iter: 000, Train Loss: 2.6192, Train MAPE: 0.0704, Train RMSE: 5.2299
+2021-02-02 01:46:40,612 : Iter: 100, Train Loss: 2.8484, Train MAPE: 0.0723, Train RMSE: 5.4871
+2021-02-02 01:46:46,148 : Iter: 200, Train Loss: 2.5663, Train MAPE: 0.0675, Train RMSE: 5.2248
+2021-02-02 01:46:51,699 : Iter: 300, Train Loss: 2.9482, Train MAPE: 0.0790, Train RMSE: 5.6637
+2021-02-02 01:46:56,498 : Epoch: 068, Train Loss: 2.7135, Train MAPE: 0.0717, Train RMSE: 5.3713, Valid Loss: 2.7091, Valid MAPE: 0.0737, Valid RMSE: 5.2304, Training Time: 21.9288/epoch
+2021-02-02 01:46:57,774 : On average over 12 horizons, Test MAE: 2.9329, Test MAPE: 0.0799, Test RMSE: 5.8417
+2021-02-02 01:46:58,965 : Iter: 000, Train Loss: 2.4756, Train MAPE: 0.0670, Train RMSE: 5.0821
+2021-02-02 01:47:04,502 : Iter: 100, Train Loss: 2.6554, Train MAPE: 0.0672, Train RMSE: 5.2488
+2021-02-02 01:47:10,021 : Iter: 200, Train Loss: 2.6956, Train MAPE: 0.0675, Train RMSE: 5.0961
+2021-02-02 01:47:15,567 : Iter: 300, Train Loss: 2.7747, Train MAPE: 0.0725, Train RMSE: 5.5473
+2021-02-02 01:47:20,360 : Epoch: 069, Train Loss: 2.7126, Train MAPE: 0.0717, Train RMSE: 5.3693, Valid Loss: 2.7160, Valid MAPE: 0.0755, Valid RMSE: 5.2633, Training Time: 21.8973/epoch
+2021-02-02 01:47:21,639 : On average over 12 horizons, Test MAE: 2.9453, Test MAPE: 0.0823, Test RMSE: 5.9083
+2021-02-02 01:47:22,833 : Iter: 000, Train Loss: 2.7920, Train MAPE: 0.0783, Train RMSE: 5.6632
+2021-02-02 01:47:28,365 : Iter: 100, Train Loss: 2.6162, Train MAPE: 0.0631, Train RMSE: 4.8833
+2021-02-02 01:47:33,905 : Iter: 200, Train Loss: 2.7674, Train MAPE: 0.0722, Train RMSE: 5.4145
+2021-02-02 01:47:39,437 : Iter: 300, Train Loss: 3.2316, Train MAPE: 0.0914, Train RMSE: 6.2262
+2021-02-02 01:47:44,205 : Epoch: 070, Train Loss: 2.7119, Train MAPE: 0.0717, Train RMSE: 5.3666, Valid Loss: 2.7156, Valid MAPE: 0.0745, Valid RMSE: 5.2715, Training Time: 21.8738/epoch
+2021-02-02 01:47:45,482 : On average over 12 horizons, Test MAE: 2.9356, Test MAPE: 0.0808, Test RMSE: 5.8810
+2021-02-02 01:47:46,673 : Iter: 000, Train Loss: 2.8335, Train MAPE: 0.0759, Train RMSE: 5.5135
+2021-02-02 01:47:52,184 : Iter: 100, Train Loss: 2.7192, Train MAPE: 0.0730, Train RMSE: 5.3802
+2021-02-02 01:47:57,705 : Iter: 200, Train Loss: 2.8047, Train MAPE: 0.0771, Train RMSE: 5.6527
+2021-02-02 01:48:03,220 : Iter: 300, Train Loss: 2.7471, Train MAPE: 0.0702, Train RMSE: 5.3038
+2021-02-02 01:48:08,010 : Epoch: 071, Train Loss: 2.7091, Train MAPE: 0.0716, Train RMSE: 5.3617, Valid Loss: 2.7159, Valid MAPE: 0.0743, Valid RMSE: 5.2691, Training Time: 21.8395/epoch
+2021-02-02 01:48:09,289 : On average over 12 horizons, Test MAE: 2.9437, Test MAPE: 0.0808, Test RMSE: 5.8904
+2021-02-02 01:48:10,479 : Iter: 000, Train Loss: 2.6445, Train MAPE: 0.0700, Train RMSE: 5.1889
+2021-02-02 01:48:16,015 : Iter: 100, Train Loss: 2.7655, Train MAPE: 0.0748, Train RMSE: 5.4717
+2021-02-02 01:48:21,525 : Iter: 200, Train Loss: 2.6534, Train MAPE: 0.0661, Train RMSE: 5.2338
+2021-02-02 01:48:27,062 : Iter: 300, Train Loss: 2.6147, Train MAPE: 0.0668, Train RMSE: 5.1431
+2021-02-02 01:48:31,843 : Epoch: 072, Train Loss: 2.7077, Train MAPE: 0.0715, Train RMSE: 5.3587, Valid Loss: 2.7149, Valid MAPE: 0.0732, Valid RMSE: 5.2373, Training Time: 21.8646/epoch
+2021-02-02 01:48:33,126 : On average over 12 horizons, Test MAE: 2.9441, Test MAPE: 0.0798, Test RMSE: 5.8736
+2021-02-02 01:48:34,337 : Iter: 000, Train Loss: 2.6069, Train MAPE: 0.0662, Train RMSE: 5.1855
+2021-02-02 01:48:39,847 : Iter: 100, Train Loss: 2.6248, Train MAPE: 0.0651, Train RMSE: 5.1105
+2021-02-02 01:48:45,370 : Iter: 200, Train Loss: 2.6422, Train MAPE: 0.0653, Train RMSE: 5.1887
+2021-02-02 01:48:50,891 : Iter: 300, Train Loss: 2.7430, Train MAPE: 0.0807, Train RMSE: 5.4345
+2021-02-02 01:48:55,702 : Epoch: 073, Train Loss: 2.7076, Train MAPE: 0.0715, Train RMSE: 5.3559, Valid Loss: 2.7186, Valid MAPE: 0.0740, Valid RMSE: 5.2456, Training Time: 21.8777/epoch
+2021-02-02 01:48:56,999 : On average over 12 horizons, Test MAE: 2.9457, Test MAPE: 0.0806, Test RMSE: 5.8864
+2021-02-02 01:48:58,199 : Iter: 000, Train Loss: 2.7525, Train MAPE: 0.0759, Train RMSE: 5.5522
+2021-02-02 01:49:03,709 : Iter: 100, Train Loss: 2.5152, Train MAPE: 0.0636, Train RMSE: 4.8432
+2021-02-02 01:49:09,242 : Iter: 200, Train Loss: 2.7014, Train MAPE: 0.0694, Train RMSE: 5.2225
+2021-02-02 01:49:14,760 : Iter: 300, Train Loss: 2.6621, Train MAPE: 0.0660, Train RMSE: 5.1307
+2021-02-02 01:49:19,538 : Epoch: 074, Train Loss: 2.7063, Train MAPE: 0.0715, Train RMSE: 5.3536, Valid Loss: 2.7090, Valid MAPE: 0.0743, Valid RMSE: 5.2368, Training Time: 21.8474/epoch
+2021-02-02 01:49:20,816 : On average over 12 horizons, Test MAE: 2.9339, Test MAPE: 0.0807, Test RMSE: 5.8638
+2021-02-02 01:49:22,016 : Iter: 000, Train Loss: 2.7669, Train MAPE: 0.0757, Train RMSE: 5.3559
+2021-02-02 01:49:27,568 : Iter: 100, Train Loss: 2.6042, Train MAPE: 0.0662, Train RMSE: 5.0660
+2021-02-02 01:49:33,080 : Iter: 200, Train Loss: 2.7315, Train MAPE: 0.0676, Train RMSE: 5.2134
+2021-02-02 01:49:38,589 : Iter: 300, Train Loss: 2.6396, Train MAPE: 0.0732, Train RMSE: 5.4184
+2021-02-02 01:49:43,351 : Epoch: 075, Train Loss: 2.7035, Train MAPE: 0.0714, Train RMSE: 5.3477, Valid Loss: 2.7198, Valid MAPE: 0.0735, Valid RMSE: 5.2642, Training Time: 21.8392/epoch
+2021-02-02 01:49:44,630 : On average over 12 horizons, Test MAE: 2.9458, Test MAPE: 0.0801, Test RMSE: 5.8824
+2021-02-02 01:49:45,820 : Iter: 000, Train Loss: 2.6638, Train MAPE: 0.0674, Train RMSE: 5.2856
+2021-02-02 01:49:51,343 : Iter: 100, Train Loss: 2.7154, Train MAPE: 0.0709, Train RMSE: 5.3536
+2021-02-02 01:49:56,852 : Iter: 200, Train Loss: 2.6631, Train MAPE: 0.0709, Train RMSE: 5.3063
+2021-02-02 01:50:02,365 : Iter: 300, Train Loss: 2.4842, Train MAPE: 0.0597, Train RMSE: 4.7886
+2021-02-02 01:50:07,176 : Epoch: 076, Train Loss: 2.7026, Train MAPE: 0.0714, Train RMSE: 5.3437, Valid Loss: 2.7170, Valid MAPE: 0.0744, Valid RMSE: 5.2501, Training Time: 21.8185/epoch
+2021-02-02 01:50:08,461 : On average over 12 horizons, Test MAE: 2.9350, Test MAPE: 0.0807, Test RMSE: 5.8532
+2021-02-02 01:50:09,661 : Iter: 000, Train Loss: 2.6888, Train MAPE: 0.0706, Train RMSE: 5.2998
+2021-02-02 01:50:15,185 : Iter: 100, Train Loss: 2.6953, Train MAPE: 0.0736, Train RMSE: 5.3753
+2021-02-02 01:50:20,706 : Iter: 200, Train Loss: 2.7166, Train MAPE: 0.0701, Train RMSE: 5.3761
+2021-02-02 01:50:26,214 : Iter: 300, Train Loss: 2.6675, Train MAPE: 0.0685, Train RMSE: 5.2882
+2021-02-02 01:50:30,996 : Epoch: 077, Train Loss: 2.6995, Train MAPE: 0.0713, Train RMSE: 5.3395, Valid Loss: 2.7239, Valid MAPE: 0.0742, Valid RMSE: 5.2481, Training Time: 21.8461/epoch
+2021-02-02 01:50:32,274 : On average over 12 horizons, Test MAE: 2.9538, Test MAPE: 0.0810, Test RMSE: 5.9037
+2021-02-02 01:50:33,473 : Iter: 000, Train Loss: 2.6433, Train MAPE: 0.0720, Train RMSE: 5.2820
+2021-02-02 01:50:39,011 : Iter: 100, Train Loss: 2.8664, Train MAPE: 0.0790, Train RMSE: 5.6491
+2021-02-02 01:50:44,514 : Iter: 200, Train Loss: 2.7179, Train MAPE: 0.0703, Train RMSE: 5.3125
+2021-02-02 01:50:50,052 : Iter: 300, Train Loss: 2.7040, Train MAPE: 0.0671, Train RMSE: 5.2372
+2021-02-02 01:50:54,848 : Epoch: 078, Train Loss: 2.7005, Train MAPE: 0.0713, Train RMSE: 5.3383, Valid Loss: 2.7127, Valid MAPE: 0.0738, Valid RMSE: 5.2249, Training Time: 21.8850/epoch
+2021-02-02 01:50:56,125 : On average over 12 horizons, Test MAE: 2.9441, Test MAPE: 0.0806, Test RMSE: 5.8894
+2021-02-02 01:50:57,318 : Iter: 000, Train Loss: 2.5045, Train MAPE: 0.0616, Train RMSE: 4.9505
+2021-02-02 01:51:02,819 : Iter: 100, Train Loss: 2.5858, Train MAPE: 0.0644, Train RMSE: 4.9985
+2021-02-02 01:51:08,354 : Iter: 200, Train Loss: 2.7153, Train MAPE: 0.0755, Train RMSE: 5.4418
+2021-02-02 01:51:13,882 : Iter: 300, Train Loss: 2.6126, Train MAPE: 0.0649, Train RMSE: 5.0282
+2021-02-02 01:51:18,663 : Epoch: 079, Train Loss: 2.6984, Train MAPE: 0.0712, Train RMSE: 5.3362, Valid Loss: 2.7215, Valid MAPE: 0.0754, Valid RMSE: 5.2651, Training Time: 21.8488/epoch
+2021-02-02 01:51:19,939 : On average over 12 horizons, Test MAE: 2.9420, Test MAPE: 0.0818, Test RMSE: 5.8957
+2021-02-02 01:51:21,131 : Iter: 000, Train Loss: 2.6689, Train MAPE: 0.0694, Train RMSE: 5.1820
+2021-02-02 01:51:26,630 : Iter: 100, Train Loss: 2.5237, Train MAPE: 0.0655, Train RMSE: 4.9788
+2021-02-02 01:51:32,143 : Iter: 200, Train Loss: 2.6141, Train MAPE: 0.0711, Train RMSE: 5.0338
+2021-02-02 01:51:37,669 : Iter: 300, Train Loss: 2.4572, Train MAPE: 0.0649, Train RMSE: 4.9344
+2021-02-02 01:51:42,459 : Epoch: 080, Train Loss: 2.7000, Train MAPE: 0.0713, Train RMSE: 5.3378, Valid Loss: 2.7083, Valid MAPE: 0.0741, Valid RMSE: 5.2563, Training Time: 21.8287/epoch
+2021-02-02 01:51:43,735 : On average over 12 horizons, Test MAE: 2.9336, Test MAPE: 0.0805, Test RMSE: 5.8911
+2021-02-02 01:51:44,923 : Iter: 000, Train Loss: 2.7258, Train MAPE: 0.0732, Train RMSE: 5.4025
+2021-02-02 01:51:50,453 : Iter: 100, Train Loss: 2.4493, Train MAPE: 0.0578, Train RMSE: 4.6455
+2021-02-02 01:51:55,955 : Iter: 200, Train Loss: 2.5212, Train MAPE: 0.0618, Train RMSE: 4.9327
+2021-02-02 01:52:01,483 : Iter: 300, Train Loss: 2.6996, Train MAPE: 0.0724, Train RMSE: 5.3722
+2021-02-02 01:52:06,281 : Epoch: 081, Train Loss: 2.6962, Train MAPE: 0.0711, Train RMSE: 5.3297, Valid Loss: 2.7173, Valid MAPE: 0.0734, Valid RMSE: 5.2679, Training Time: 21.8568/epoch
+2021-02-02 01:52:07,557 : On average over 12 horizons, Test MAE: 2.9458, Test MAPE: 0.0798, Test RMSE: 5.8997
+2021-02-02 01:52:08,752 : Iter: 000, Train Loss: 2.8997, Train MAPE: 0.0790, Train RMSE: 5.6414
+2021-02-02 01:52:14,286 : Iter: 100, Train Loss: 2.7000, Train MAPE: 0.0727, Train RMSE: 5.4845
+2021-02-02 01:52:19,820 : Iter: 200, Train Loss: 2.7788, Train MAPE: 0.0807, Train RMSE: 5.6660
+2021-02-02 01:52:25,333 : Iter: 300, Train Loss: 2.7456, Train MAPE: 0.0682, Train RMSE: 5.4080
+2021-02-02 01:52:30,133 : Epoch: 082, Train Loss: 2.6942, Train MAPE: 0.0710, Train RMSE: 5.3247, Valid Loss: 2.7128, Valid MAPE: 0.0747, Valid RMSE: 5.2299, Training Time: 21.8825/epoch
+2021-02-02 01:52:31,411 : On average over 12 horizons, Test MAE: 2.9384, Test MAPE: 0.0813, Test RMSE: 5.8768
+2021-02-02 01:52:32,598 : Iter: 000, Train Loss: 2.4757, Train MAPE: 0.0638, Train RMSE: 4.8984
+2021-02-02 01:52:38,108 : Iter: 100, Train Loss: 2.6236, Train MAPE: 0.0664, Train RMSE: 5.2488
+2021-02-02 01:52:43,631 : Iter: 200, Train Loss: 2.7476, Train MAPE: 0.0741, Train RMSE: 5.4368
+2021-02-02 01:52:49,155 : Iter: 300, Train Loss: 2.6827, Train MAPE: 0.0701, Train RMSE: 5.1973
+2021-02-02 01:52:53,945 : Epoch: 083, Train Loss: 2.6934, Train MAPE: 0.0710, Train RMSE: 5.3235, Valid Loss: 2.7281, Valid MAPE: 0.0748, Valid RMSE: 5.2674, Training Time: 21.8390/epoch
+2021-02-02 01:52:55,224 : On average over 12 horizons, Test MAE: 2.9456, Test MAPE: 0.0814, Test RMSE: 5.8909
+2021-02-02 01:52:56,437 : Iter: 000, Train Loss: 2.8546, Train MAPE: 0.0782, Train RMSE: 5.7542
+2021-02-02 01:53:01,965 : Iter: 100, Train Loss: 2.5778, Train MAPE: 0.0634, Train RMSE: 5.0574
+2021-02-02 01:53:07,471 : Iter: 200, Train Loss: 2.5500, Train MAPE: 0.0629, Train RMSE: 4.8973
+2021-02-02 01:53:13,034 : Iter: 300, Train Loss: 2.7418, Train MAPE: 0.0710, Train RMSE: 5.4146
+2021-02-02 01:53:17,818 : Epoch: 084, Train Loss: 2.6928, Train MAPE: 0.0710, Train RMSE: 5.3201, Valid Loss: 2.7171, Valid MAPE: 0.0742, Valid RMSE: 5.2848, Training Time: 21.8925/epoch
+2021-02-02 01:53:19,099 : On average over 12 horizons, Test MAE: 2.9455, Test MAPE: 0.0807, Test RMSE: 5.9126
+2021-02-02 01:53:20,298 : Iter: 000, Train Loss: 2.7188, Train MAPE: 0.0745, Train RMSE: 5.2819
+2021-02-02 01:53:25,827 : Iter: 100, Train Loss: 2.8900, Train MAPE: 0.0821, Train RMSE: 5.7278
+2021-02-02 01:53:31,368 : Iter: 200, Train Loss: 3.0302, Train MAPE: 0.0925, Train RMSE: 6.2243
+2021-02-02 01:53:36,886 : Iter: 300, Train Loss: 3.0534, Train MAPE: 0.0875, Train RMSE: 6.2070
+2021-02-02 01:53:41,684 : Epoch: 085, Train Loss: 2.6915, Train MAPE: 0.0709, Train RMSE: 5.3172, Valid Loss: 2.7061, Valid MAPE: 0.0747, Valid RMSE: 5.2503, Training Time: 21.8912/epoch
+2021-02-02 01:53:42,960 : On average over 12 horizons, Test MAE: 2.9372, Test MAPE: 0.0809, Test RMSE: 5.8974
+2021-02-02 01:53:44,151 : Iter: 000, Train Loss: 2.6651, Train MAPE: 0.0702, Train RMSE: 5.2680
+2021-02-02 01:53:49,670 : Iter: 100, Train Loss: 2.6287, Train MAPE: 0.0678, Train RMSE: 5.2006
+2021-02-02 01:53:55,209 : Iter: 200, Train Loss: 2.6646, Train MAPE: 0.0717, Train RMSE: 5.3682
+2021-02-02 01:54:00,738 : Iter: 300, Train Loss: 2.7008, Train MAPE: 0.0719, Train RMSE: 5.4709
+2021-02-02 01:54:05,526 : Epoch: 086, Train Loss: 2.6895, Train MAPE: 0.0709, Train RMSE: 5.3112, Valid Loss: 2.7162, Valid MAPE: 0.0750, Valid RMSE: 5.2472, Training Time: 21.8715/epoch
+2021-02-02 01:54:06,802 : On average over 12 horizons, Test MAE: 2.9393, Test MAPE: 0.0813, Test RMSE: 5.8687
+2021-02-02 01:54:08,009 : Iter: 000, Train Loss: 2.6960, Train MAPE: 0.0698, Train RMSE: 5.3081
+2021-02-02 01:54:13,564 : Iter: 100, Train Loss: 2.7408, Train MAPE: 0.0737, Train RMSE: 5.4859
+2021-02-02 01:54:19,084 : Iter: 200, Train Loss: 2.5993, Train MAPE: 0.0663, Train RMSE: 5.3182
+2021-02-02 01:54:24,603 : Iter: 300, Train Loss: 2.5665, Train MAPE: 0.0666, Train RMSE: 5.2796
+2021-02-02 01:54:29,386 : Epoch: 087, Train Loss: 2.6888, Train MAPE: 0.0709, Train RMSE: 5.3105, Valid Loss: 2.7088, Valid MAPE: 0.0729, Valid RMSE: 5.2474, Training Time: 21.8896/epoch
+2021-02-02 01:54:30,663 : On average over 12 horizons, Test MAE: 2.9432, Test MAPE: 0.0797, Test RMSE: 5.9006
+2021-02-02 01:54:31,834 : Iter: 000, Train Loss: 2.7221, Train MAPE: 0.0697, Train RMSE: 5.3090
+2021-02-02 01:54:37,348 : Iter: 100, Train Loss: 2.7597, Train MAPE: 0.0793, Train RMSE: 5.5332
+2021-02-02 01:54:42,863 : Iter: 200, Train Loss: 2.6334, Train MAPE: 0.0679, Train RMSE: 5.1607
+2021-02-02 01:54:48,391 : Iter: 300, Train Loss: 2.8014, Train MAPE: 0.0764, Train RMSE: 5.4189
+2021-02-02 01:54:53,176 : Epoch: 088, Train Loss: 2.6867, Train MAPE: 0.0707, Train RMSE: 5.3052, Valid Loss: 2.7240, Valid MAPE: 0.0747, Valid RMSE: 5.2356, Training Time: 21.8209/epoch
+2021-02-02 01:54:54,451 : On average over 12 horizons, Test MAE: 2.9455, Test MAPE: 0.0810, Test RMSE: 5.8665
+2021-02-02 01:54:55,643 : Iter: 000, Train Loss: 2.5306, Train MAPE: 0.0648, Train RMSE: 5.1439
+2021-02-02 01:55:01,167 : Iter: 100, Train Loss: 2.5956, Train MAPE: 0.0666, Train RMSE: 5.1859
+2021-02-02 01:55:06,706 : Iter: 200, Train Loss: 2.5914, Train MAPE: 0.0724, Train RMSE: 5.4443
+2021-02-02 01:55:12,243 : Iter: 300, Train Loss: 2.5798, Train MAPE: 0.0662, Train RMSE: 5.1428
+2021-02-02 01:55:17,015 : Epoch: 089, Train Loss: 2.6864, Train MAPE: 0.0707, Train RMSE: 5.3040, Valid Loss: 2.7113, Valid MAPE: 0.0745, Valid RMSE: 5.2490, Training Time: 21.8778/epoch
+2021-02-02 01:55:18,292 : On average over 12 horizons, Test MAE: 2.9437, Test MAPE: 0.0810, Test RMSE: 5.9108
+2021-02-02 01:55:19,485 : Iter: 000, Train Loss: 2.8410, Train MAPE: 0.0804, Train RMSE: 5.7851
+2021-02-02 01:55:25,016 : Iter: 100, Train Loss: 2.5323, Train MAPE: 0.0699, Train RMSE: 5.2282
+2021-02-02 01:55:30,560 : Iter: 200, Train Loss: 2.8347, Train MAPE: 0.0784, Train RMSE: 5.5740
+2021-02-02 01:55:36,108 : Iter: 300, Train Loss: 2.6123, Train MAPE: 0.0691, Train RMSE: 5.3179
+2021-02-02 01:55:40,870 : Epoch: 090, Train Loss: 2.6847, Train MAPE: 0.0707, Train RMSE: 5.3012, Valid Loss: 2.7195, Valid MAPE: 0.0749, Valid RMSE: 5.2751, Training Time: 21.8891/epoch
+2021-02-02 01:55:42,146 : On average over 12 horizons, Test MAE: 2.9479, Test MAPE: 0.0818, Test RMSE: 5.9380
+2021-02-02 01:55:43,340 : Iter: 000, Train Loss: 2.6336, Train MAPE: 0.0647, Train RMSE: 5.0051
+2021-02-02 01:55:48,870 : Iter: 100, Train Loss: 2.5128, Train MAPE: 0.0624, Train RMSE: 4.8550
+2021-02-02 01:55:54,402 : Iter: 200, Train Loss: 2.7953, Train MAPE: 0.0749, Train RMSE: 5.4293
+2021-02-02 01:55:59,916 : Iter: 300, Train Loss: 2.7022, Train MAPE: 0.0686, Train RMSE: 5.2740
+2021-02-02 01:56:04,757 : Epoch: 091, Train Loss: 2.6846, Train MAPE: 0.0707, Train RMSE: 5.2989, Valid Loss: 2.7086, Valid MAPE: 0.0737, Valid RMSE: 5.2602, Training Time: 21.9047/epoch
+2021-02-02 01:56:06,040 : On average over 12 horizons, Test MAE: 2.9399, Test MAPE: 0.0803, Test RMSE: 5.9008
+2021-02-02 01:56:07,249 : Iter: 000, Train Loss: 2.4361, Train MAPE: 0.0560, Train RMSE: 4.5780
+2021-02-02 01:56:12,819 : Iter: 100, Train Loss: 2.6728, Train MAPE: 0.0670, Train RMSE: 5.1448
+2021-02-02 01:56:18,331 : Iter: 200, Train Loss: 2.5177, Train MAPE: 0.0612, Train RMSE: 4.8441
+2021-02-02 01:56:23,871 : Iter: 300, Train Loss: 2.5949, Train MAPE: 0.0658, Train RMSE: 5.2115
+2021-02-02 01:56:28,672 : Epoch: 092, Train Loss: 2.6824, Train MAPE: 0.0706, Train RMSE: 5.2947, Valid Loss: 2.7094, Valid MAPE: 0.0749, Valid RMSE: 5.2425, Training Time: 21.9441/epoch
+2021-02-02 01:56:29,951 : On average over 12 horizons, Test MAE: 2.9371, Test MAPE: 0.0814, Test RMSE: 5.8886
+2021-02-02 01:56:31,140 : Iter: 000, Train Loss: 2.6317, Train MAPE: 0.0651, Train RMSE: 4.9586
+2021-02-02 01:56:36,677 : Iter: 100, Train Loss: 2.7741, Train MAPE: 0.0732, Train RMSE: 5.3239
+2021-02-02 01:56:42,199 : Iter: 200, Train Loss: 2.7800, Train MAPE: 0.0716, Train RMSE: 5.5309
+2021-02-02 01:56:47,704 : Iter: 300, Train Loss: 2.8299, Train MAPE: 0.0759, Train RMSE: 5.5457
+2021-02-02 01:56:52,477 : Epoch: 093, Train Loss: 2.6809, Train MAPE: 0.0705, Train RMSE: 5.2923, Valid Loss: 2.7223, Valid MAPE: 0.0751, Valid RMSE: 5.2640, Training Time: 21.8361/epoch
+2021-02-02 01:56:53,764 : On average over 12 horizons, Test MAE: 2.9490, Test MAPE: 0.0816, Test RMSE: 5.9172
+2021-02-02 01:56:54,952 : Iter: 000, Train Loss: 2.6922, Train MAPE: 0.0675, Train RMSE: 5.1548
+2021-02-02 01:57:00,436 : Iter: 100, Train Loss: 2.6803, Train MAPE: 0.0705, Train RMSE: 5.2835
+2021-02-02 01:57:05,985 : Iter: 200, Train Loss: 2.7373, Train MAPE: 0.0733, Train RMSE: 5.4136
+2021-02-02 01:57:11,503 : Iter: 300, Train Loss: 2.6891, Train MAPE: 0.0676, Train RMSE: 5.1120
+2021-02-02 01:57:16,292 : Epoch: 094, Train Loss: 2.6815, Train MAPE: 0.0706, Train RMSE: 5.2920, Valid Loss: 2.7169, Valid MAPE: 0.0741, Valid RMSE: 5.2459, Training Time: 21.8381/epoch
+2021-02-02 01:57:17,574 : On average over 12 horizons, Test MAE: 2.9435, Test MAPE: 0.0807, Test RMSE: 5.8832
+2021-02-02 01:57:18,766 : Iter: 000, Train Loss: 2.6319, Train MAPE: 0.0640, Train RMSE: 5.0537
+2021-02-02 01:57:24,294 : Iter: 100, Train Loss: 2.8078, Train MAPE: 0.0757, Train RMSE: 5.5572
+2021-02-02 01:57:29,844 : Iter: 200, Train Loss: 2.5284, Train MAPE: 0.0645, Train RMSE: 4.9800
+2021-02-02 01:57:35,392 : Iter: 300, Train Loss: 2.6710, Train MAPE: 0.0666, Train RMSE: 5.2047
+2021-02-02 01:57:40,161 : Epoch: 095, Train Loss: 2.6796, Train MAPE: 0.0705, Train RMSE: 5.2889, Valid Loss: 2.7148, Valid MAPE: 0.0737, Valid RMSE: 5.2448, Training Time: 21.8975/epoch
+2021-02-02 01:57:41,440 : On average over 12 horizons, Test MAE: 2.9342, Test MAPE: 0.0800, Test RMSE: 5.8719
+2021-02-02 01:57:42,612 : Iter: 000, Train Loss: 2.5074, Train MAPE: 0.0648, Train RMSE: 4.9956
+2021-02-02 01:57:48,137 : Iter: 100, Train Loss: 2.4772, Train MAPE: 0.0595, Train RMSE: 4.6573
+2021-02-02 01:57:53,661 : Iter: 200, Train Loss: 2.5848, Train MAPE: 0.0649, Train RMSE: 4.9171
+2021-02-02 01:57:59,157 : Iter: 300, Train Loss: 2.7419, Train MAPE: 0.0749, Train RMSE: 5.4366
+2021-02-02 01:58:03,975 : Epoch: 096, Train Loss: 2.6786, Train MAPE: 0.0705, Train RMSE: 5.2859, Valid Loss: 2.7085, Valid MAPE: 0.0751, Valid RMSE: 5.2506, Training Time: 21.8038/epoch
+2021-02-02 01:58:05,253 : On average over 12 horizons, Test MAE: 2.9425, Test MAPE: 0.0820, Test RMSE: 5.9150
+2021-02-02 01:58:06,427 : Iter: 000, Train Loss: 2.6646, Train MAPE: 0.0679, Train RMSE: 5.1609
+2021-02-02 01:58:11,950 : Iter: 100, Train Loss: 2.8292, Train MAPE: 0.0746, Train RMSE: 5.5066
+2021-02-02 01:58:17,489 : Iter: 200, Train Loss: 2.5317, Train MAPE: 0.0639, Train RMSE: 5.1123
+2021-02-02 01:58:22,980 : Iter: 300, Train Loss: 2.4802, Train MAPE: 0.0659, Train RMSE: 4.9162
+2021-02-02 01:58:27,760 : Epoch: 097, Train Loss: 2.6784, Train MAPE: 0.0704, Train RMSE: 5.2825, Valid Loss: 2.7127, Valid MAPE: 0.0744, Valid RMSE: 5.2639, Training Time: 21.8230/epoch
+2021-02-02 01:58:29,036 : On average over 12 horizons, Test MAE: 2.9399, Test MAPE: 0.0807, Test RMSE: 5.9037
+2021-02-02 01:58:30,223 : Iter: 000, Train Loss: 2.7968, Train MAPE: 0.0707, Train RMSE: 5.3319
+2021-02-02 01:58:35,756 : Iter: 100, Train Loss: 2.6600, Train MAPE: 0.0673, Train RMSE: 5.2043
+2021-02-02 01:58:41,270 : Iter: 200, Train Loss: 2.6820, Train MAPE: 0.0730, Train RMSE: 5.3350
+2021-02-02 01:58:46,802 : Iter: 300, Train Loss: 2.5670, Train MAPE: 0.0680, Train RMSE: 5.1481
+2021-02-02 01:58:51,585 : Epoch: 098, Train Loss: 2.6768, Train MAPE: 0.0704, Train RMSE: 5.2803, Valid Loss: 2.7129, Valid MAPE: 0.0743, Valid RMSE: 5.2456, Training Time: 21.8556/epoch
+2021-02-02 01:58:52,860 : On average over 12 horizons, Test MAE: 2.9375, Test MAPE: 0.0805, Test RMSE: 5.8695
+2021-02-02 01:58:54,054 : Iter: 000, Train Loss: 2.7752, Train MAPE: 0.0717, Train RMSE: 5.3405
+2021-02-02 01:58:59,581 : Iter: 100, Train Loss: 2.6884, Train MAPE: 0.0728, Train RMSE: 5.4641
+2021-02-02 01:59:05,106 : Iter: 200, Train Loss: 2.8805, Train MAPE: 0.0774, Train RMSE: 5.7554
+2021-02-02 01:59:10,607 : Iter: 300, Train Loss: 2.5207, Train MAPE: 0.0629, Train RMSE: 4.8159
+2021-02-02 01:59:15,394 : Epoch: 099, Train Loss: 2.6755, Train MAPE: 0.0703, Train RMSE: 5.2783, Valid Loss: 2.7238, Valid MAPE: 0.0746, Valid RMSE: 5.2554, Training Time: 21.8435/epoch
+2021-02-02 01:59:16,671 : On average over 12 horizons, Test MAE: 2.9444, Test MAPE: 0.0808, Test RMSE: 5.8844
+2021-02-02 01:59:17,838 : Iter: 000, Train Loss: 2.5087, Train MAPE: 0.0604, Train RMSE: 4.9200
+2021-02-02 01:59:23,350 : Iter: 100, Train Loss: 2.6433, Train MAPE: 0.0727, Train RMSE: 5.2718
+2021-02-02 01:59:28,860 : Iter: 200, Train Loss: 3.0590, Train MAPE: 0.0857, Train RMSE: 5.9371
+2021-02-02 01:59:34,360 : Iter: 300, Train Loss: 2.4734, Train MAPE: 0.0685, Train RMSE: 4.9528
+2021-02-02 01:59:39,112 : Epoch: 100, Train Loss: 2.6744, Train MAPE: 0.0703, Train RMSE: 5.2739, Valid Loss: 2.7271, Valid MAPE: 0.0743, Valid RMSE: 5.2522, Training Time: 21.7511/epoch
+2021-02-02 01:59:40,387 : On average over 12 horizons, Test MAE: 2.9393, Test MAPE: 0.0802, Test RMSE: 5.8632
+2021-02-02 01:59:41,652 : 1	2.2196	0.0526	3.8290
+2021-02-02 01:59:41,654 : 2	2.4592	0.0613	4.5358
+2021-02-02 01:59:41,656 : 3	2.6267	0.0680	5.0229
+2021-02-02 01:59:41,658 : 4	2.7644	0.0734	5.4028
+2021-02-02 01:59:41,660 : 5	2.8750	0.0781	5.7242
+2021-02-02 01:59:41,662 : 6	2.9727	0.0819	6.0125
+2021-02-02 01:59:41,664 : 7	3.0593	0.0857	6.2554
+2021-02-02 01:59:41,666 : 8	3.1341	0.0888	6.4712
+2021-02-02 01:59:41,668 : 9	3.2013	0.0919	6.6588
+2021-02-02 01:59:41,669 : 10	3.2594	0.0943	6.8163
+2021-02-02 01:59:41,671 : 11	3.3121	0.0965	6.9594
+2021-02-02 01:59:41,673 : 12	3.3625	0.0986	7.0800
+2021-02-02 01:59:41,674 : On average over 12 horizons, Test MAE: 2.9372, Test MAPE: 0.0809, Test RMSE: 5.8974
