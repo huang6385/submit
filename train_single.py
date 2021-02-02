@@ -33,7 +33,7 @@ device = torch.device('cuda')
 parser = argparse.ArgumentParser()
 
 
-# --num_nodes 137 --forecast_horizon 12 --data data/single_data/solar-energy/solar_AL.txt --nhid 16 --gnn_channel 32 --attentional_relation_channel 128
+#python train_single --num_nodes 137 --forecast_horizon 12 --data data/single_data/solar-energy/solar_AL.txt --nhid 16 --gnn_channel 32 --attentional_relation_channel 128
 
 parser.add_argument('--num_nodes',type=int,default=137,help='')
 parser.add_argument('--forecast_horizon',type=int,default=12,help='')

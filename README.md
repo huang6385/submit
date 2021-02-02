@@ -30,5 +30,5 @@ python3 train.py --model a2gcn --nhid 16 --learning_rate 0.001 --weight_decay 0 
 ### Train Commands
 
 ```
-python3 train_single.py --num_nodes 137 --forecast_horizon 12 --data data/single_data/solar-energy/solar_AL.txt --nhid 16 --gnn_channel 32 --attentional_relation_channel 128
+python train_single.py --num_nodes 137 --forecast_horizon 12 --data ./data/solar-energy/solar_AL.txt --nhid 16 --gnn_channel 32 --attentional_relation_channel 128
 ```
